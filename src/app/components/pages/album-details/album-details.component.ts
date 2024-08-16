@@ -1,12 +1,30 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { Album } from '../../../models/album';
+import { ActivatedRoute } from '@angular/router';
+import { AlbumService } from '../../../services/album.service';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-album-details',
   standalone: true,
-  imports: [],
+  imports: [CommonModule],
   templateUrl: './album-details.component.html',
-  styleUrl: './album-details.component.css'
+  styleUrl: './album-details.component.css',
 })
-export class AlbumDetailsComponent {
+export class AlbumDetailsComponent implements OnInit {
+  album: Album | undefined;
 
+  constructor(
+    private route: ActivatedRoute,
+    private albumService: AlbumService
+  ) {}
+
+  ngOnInit(): void {
+    const albumId = this.route.snapshot.paramMap.get('id');
+    console.log(albumId);
+    this.albumService.getAlbumById(Number(albumId)).subscribe({
+      next: (data) => this.album = data,
+      error: (error) => console.error(error)
+    });
+  }
 }

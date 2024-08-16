@@ -1,1 +1,12 @@
-<p>album-details works!</p>
+<div *ngIf="album">
+  <h1>{{ album.title }}</h1>
+  <img [src]="album.coverUrl" [alt]="album.title" width="500" />
+
+  <ul>
+    <li *ngFor="let track of album.tracks" class="flex justify-start gap-3">
+      <div>{{ track.number }}.</div>
+      <div>{{ track.title }}</div>
+      <div class="ml-auto">{{ track.duration }}</div>
+    </li>
+  </ul>
+</div>
