@@ -1,395 +1,388 @@
 {
-  "bandMembers": [
-    {
-      "id": 1,
-      "name": "James LaBrie",
-      "instrument": "Vocals",
-      "bio": "James LaBrie is the lead vocalist of Dream Theater, known for his powerful and dynamic voice."
-    },
-    {
-      "id": 2,
-      "name": "John Petrucci",
-      "instrument": "Guitar",
-      "bio": "John Petrucci is a founding member and guitarist of Dream Theater, recognized for his technical proficiency and complex compositions."
-    },
-    {
-      "id": 3,
-      "name": "John Myung",
-      "instrument": "Bass",
-      "bio": "John Myung is the bassist of Dream Theater, known for his intricate bass lines and as a founding member of the band."
-    },
-    {
-      "id": 4,
-      "name": "Jordan Rudess",
-      "instrument": "Keyboard",
-      "bio": "Jordan Rudess is the keyboardist for Dream Theater, famous for his innovative use of technology and classical influences."
-    },
-    {
-      "id": 5,
-      "name": "Mike Mangini",
-      "instrument": "Drums",
-      "bio": "Mike Mangini is the drummer of Dream Theater, joining the band in 2010 and known for his extraordinary speed and precision."
-    },
-    {
-      "id": 6,
-      "name": "Mike Portnoy",
-      "instrument": "Drums",
-      "bio": "Mike Portnoy was the original drummer of Dream Theater, known for his dynamic drumming and contributions to songwriting."
-    }
-  ],
-  "albums": [
-    {
-      "id": 1,
-      "title": "Images and Words",
-      "description": "Dream Theater's second studio album, released in 1992, which brought them to fame with the hit single 'Pull Me Under'.",
-      "releaseYear": 1992,
-      "tracks": [
+    "bandMembers": [
         {
-          "id": 1,
-          "number": 1,
-          "title": "Pull Me Under",
-          "durationInMinutes": 8.11
+            "id": 1,
+            "name": "John Petrucci",
+            "instrument": "Guitar",
+            "bio": "John Petrucci is the guitarist of Dream Theater and a founding member. He is widely regarded as one of the greatest guitarists in progressive metal."
         },
         {
-          "id": 2,
-          "number": 2,
-          "title": "Another Day",
-          "durationInMinutes": 4.23
+            "id": 2,
+            "name": "Mike Portnoy",
+            "instrument": "Drums",
+            "bio": "Mike Portnoy is the original drummer and one of the founding members of Dream Theater. He is known for his complex drumming techniques and was with the band until 2010."
         },
         {
-          "id": 3,
-          "number": 3,
-          "title": "Take the Time",
-          "durationInMinutes": 8.21
+            "id": 3,
+            "name": "John Myung",
+            "instrument": "Bass",
+            "bio": "John Myung is the bassist and a founding member of Dream Theater. He is known for his technical playing style and use of six-string basses."
         },
         {
-          "id": 4,
-          "number": 4,
-          "title": "Surrounded",
-          "durationInMinutes": 5.30
+            "id": 4,
+            "name": "James LaBrie",
+            "instrument": "Vocals",
+            "bio": "James LaBrie is the lead vocalist of Dream Theater. He joined the band in 1991 and has been their frontman ever since."
         },
         {
-          "id": 5,
-          "number": 5,
-          "title": "Metropolis—Part I: 'The Miracle and the Sleeper'",
-          "durationInMinutes": 9.32
-        },
-        {
-          "id": 6,
-          "number": 6,
-          "title": "Under a Glass Moon",
-          "durationInMinutes": 7.04
-        },
-        {
-          "id": 7,
-          "number": 7,
-          "title": "Wait for Sleep",
-          "durationInMinutes": 2.31
-        },
-        {
-          "id": 8,
-          "number": 8,
-          "title": "Learning to Live",
-          "durationInMinutes": 11.30
+            "id": 5,
+            "name": "Jordan Rudess",
+            "instrument": "Keyboards",
+            "bio": "Jordan Rudess is the keyboardist of Dream Theater. He joined the band in 1999 and is known for his innovative use of technology in music."
         }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Awake",
-      "description": "Dream Theater's third studio album, released in 1994, known for its darker tone and complex compositions.",
-      "releaseYear": 1994,
-      "tracks": [
+    ],
+    "albums": [
         {
-          "id": 9,
-          "number": 1,
-          "title": "6:00",
-          "durationInMinutes": 5.31
+            "id": 1,
+            "title": "Images and Words",
+            "description": "Released in 1992, 'Images and Words' is Dream Theater's second studio album and their most commercially successful release.",
+            "releaseYear": 1992,
+            "tracks": [
+                {
+                    "id": 1,
+                    "number": 1,
+                    "title": "Pull Me Under",
+                    "duration": "08:11"
+                },
+                {
+                    "id": 2,
+                    "number": 2,
+                    "title": "Another Day",
+                    "duration": "04:23"
+                },
+                {
+                    "id": 3,
+                    "number": 3,
+                    "title": "Take the Time",
+                    "duration": "08:21"
+                },
+                {
+                    "id": 4,
+                    "number": 4,
+                    "title": "Surrounded",
+                    "duration": "05:30"
+                },
+                {
+                    "id": 5,
+                    "number": 5,
+                    "title": "Metropolis—Part I: 'The Miracle and the Sleeper'",
+                    "duration": "09:32"
+                },
+                {
+                    "id": 6,
+                    "number": 6,
+                    "title": "Under a Glass Moon",
+                    "duration": "07:03"
+                },
+                {
+                    "id": 7,
+                    "number": 7,
+                    "title": "Wait for Sleep",
+                    "duration": "02:31"
+                },
+                {
+                    "id": 8,
+                    "number": 8,
+                    "title": "Learning to Live",
+                    "duration": "11:30"
+                }
+            ]
         },
         {
-          "id": 10,
-          "number": 2,
-          "title": "Caught in a Web",
-          "durationInMinutes": 5.28
+            "id": 2,
+            "title": "Awake",
+            "description": "Released in 1994, 'Awake' is Dream Theater's third studio album and marks a darker, heavier sound for the band.",
+            "releaseYear": 1994,
+            "tracks": [
+                {
+                    "id": 9,
+                    "number": 1,
+                    "title": "6:00",
+                    "duration": "05:31"
+                },
+                {
+                    "id": 10,
+                    "number": 2,
+                    "title": "Caught in a Web",
+                    "duration": "05:28"
+                },
+                {
+                    "id": 11,
+                    "number": 3,
+                    "title": "Innocence Faded",
+                    "duration": "05:43"
+                },
+                {
+                    "id": 12,
+                    "number": 4,
+                    "title": "A Mind Beside Itself: I. Erotomania",
+                    "duration": "06:45"
+                },
+                {
+                    "id": 13,
+                    "number": 5,
+                    "title": "A Mind Beside Itself: II. Voices",
+                    "duration": "09:53"
+                },
+                {
+                    "id": 14,
+                    "number": 6,
+                    "title": "A Mind Beside Itself: III. The Silent Man",
+                    "duration": "03:48"
+                },
+                {
+                    "id": 15,
+                    "number": 7,
+                    "title": "The Mirror",
+                    "duration": "06:45"
+                },
+                {
+                    "id": 16,
+                    "number": 8,
+                    "title": "Lie",
+                    "duration": "06:33"
+                },
+                {
+                    "id": 17,
+                    "number": 9,
+                    "title": "Lifting Shadows Off a Dream",
+                    "duration": "06:05"
+                },
+                {
+                    "id": 18,
+                    "number": 10,
+                    "title": "Scarred",
+                    "duration": "11:00"
+                },
+                {
+                    "id": 19,
+                    "number": 11,
+                    "title": "Space-Dye Vest",
+                    "duration": "07:29"
+                }
+            ]
         },
         {
-          "id": 11,
-          "number": 3,
-          "title": "Innocence Faded",
-          "durationInMinutes": 5.43
+            "id": 3,
+            "title": "Metropolis Pt. 2: Scenes from a Memory",
+            "description": "Released in 1999, 'Scenes from a Memory' is a concept album that tells a complex story over its nine tracks.",
+            "releaseYear": 1999,
+            "tracks": [
+                {
+                    "id": 20,
+                    "number": 1,
+                    "title": "Regression",
+                    "duration": "02:06"
+                },
+                {
+                    "id": 21,
+                    "number": 2,
+                    "title": "Overture 1928",
+                    "duration": "03:37"
+                },
+                {
+                    "id": 22,
+                    "number": 3,
+                    "title": "Strange Déjà Vu",
+                    "duration": "05:12"
+                },
+                {
+                    "id": 23,
+                    "number": 4,
+                    "title": "Through My Words",
+                    "duration": "01:02"
+                },
+                {
+                    "id": 24,
+                    "number": 5,
+                    "title": "Fatal Tragedy",
+                    "duration": "06:49"
+                },
+                {
+                    "id": 25,
+                    "number": 6,
+                    "title": "Beyond This Life",
+                    "duration": "11:22"
+                },
+                {
+                    "id": 26,
+                    "number": 7,
+                    "title": "Through Her Eyes",
+                    "duration": "05:29"
+                },
+                {
+                    "id": 27,
+                    "number": 8,
+                    "title": "Home",
+                    "duration": "12:53"
+                },
+                {
+                    "id": 28,
+                    "number": 9,
+                    "title": "The Dance of Eternity",
+                    "duration": "06:13"
+                },
+                {
+                    "id": 29,
+                    "number": 10,
+                    "title": "One Last Time",
+                    "duration": "03:46"
+                },
+                {
+                    "id": 30,
+                    "number": 11,
+                    "title": "The Spirit Carries On",
+                    "duration": "06:38"
+                },
+                {
+                    "id": 31,
+                    "number": 12,
+                    "title": "Finally Free",
+                    "duration": "11:59"
+                }
+            ]
         },
         {
-          "id": 12,
-          "number": 4,
-          "title": "A Mind Beside Itself: I. Erotomania",
-          "durationInMinutes": 6.45
+            "id": 4,
+            "title": "Six Degrees of Inner Turbulence",
+            "description": "Released in 2002, 'Six Degrees of Inner Turbulence' is a double album that explores themes of mental illness and personal struggles.",
+            "releaseYear": 2002,
+            "tracks": [
+                {
+                    "id": 32,
+                    "number": 1,
+                    "title": "The Glass Prison",
+                    "duration": "13:52"
+                },
+                {
+                    "id": 33,
+                    "number": 2,
+                    "title": "Blind Faith",
+                    "duration": "10:21"
+                },
+                {
+                    "id": 34,
+                    "number": 3,
+                    "title": "Misunderstood",
+                    "duration": "09:34"
+                },
+                {
+                    "id": 35,
+                    "number": 4,
+                    "title": "The Great Debate",
+                    "duration": "13:45"
+                },
+                {
+                    "id": 36,
+                    "number": 5,
+                    "title": "Disappear",
+                    "duration": "06:45"
+                },
+                {
+                    "id": 37,
+                    "number": 6,
+                    "title": "Six Degrees of Inner Turbulence: I. Overture",
+                    "duration": "06:49"
+                },
+                {
+                    "id": 38,
+                    "number": 7,
+                    "title": "Six Degrees of Inner Turbulence: II. About to Crash",
+                    "duration": "05:51"
+                },
+                {
+                    "id": 39,
+                    "number": 8,
+                    "title": "Six Degrees of Inner Turbulence: III. War Inside My Head",
+                    "duration": "02:08"
+                },
+                {
+                    "id": 40,
+                    "number": 9,
+                    "title": "Six Degrees of Inner Turbulence: IV. The Test That Stumped Them All",
+                    "duration": "05:03"
+                },
+                {
+                    "id": 41,
+                    "number": 10,
+                    "title": "Six Degrees of Inner Turbulence: V. Goodnight Kiss",
+                    "duration": "06:17"
+                },
+                {
+                    "id": 42,
+                    "number": 11,
+                    "title": "Six Degrees of Inner Turbulence: VI. Solitary Shell",
+                    "duration": "05:48"
+                },
+                {
+                    "id": 43,
+                    "number": 12,
+                    "title": "Six Degrees of Inner Turbulence: VII. About to Crash (Reprise)",
+                    "duration": "04:04"
+                },
+                {
+                    "id": 44,
+                    "number": 13,
+                    "title": "Six Degrees of Inner Turbulence: VIII. Losing Time/Grand Finale",
+                    "duration": "06:01"
+                }
+            ]
         },
         {
-          "id": 13,
-          "number": 5,
-          "title": "A Mind Beside Itself: II. Voices",
-          "durationInMinutes": 9.53
-        },
-        {
-          "id": 14,
-          "number": 6,
-          "title": "A Mind Beside Itself: III. The Silent Man",
-          "durationInMinutes": 3.48
-        },
-        {
-          "id": 15,
-          "number": 7,
-          "title": "The Mirror",
-          "durationInMinutes": 6.45
-        },
-        {
-          "id": 16,
-          "number": 8,
-          "title": "Lie",
-          "durationInMinutes": 6.33
-        },
-        {
-          "id": 17,
-          "number": 9,
-          "title": "Lifting Shadows Off a Dream",
-          "durationInMinutes": 6.05
-        },
-        {
-          "id": 18,
-          "number": 10,
-          "title": "Scarred",
-          "durationInMinutes": 11.00
-        },
-        {
-          "id": 19,
-          "number": 11,
-          "title": "Space-Dye Vest",
-          "durationInMinutes": 7.29
+            "id": 5,
+            "title": "Octavarium",
+            "description": "Released in 2005, 'Octavarium' is Dream Theater's eighth studio album. It explores themes of circularity and cyclical patterns.",
+            "releaseYear": 2005,
+            "tracks": [
+                {
+                    "id": 45,
+                    "number": 1,
+                    "title": "The Root of All Evil",
+                    "duration": "06:56"
+                },
+                {
+                    "id": 46,
+                    "number": 2,
+                    "title": "The Answer Lies Within",
+                    "duration": "03:50"
+                },
+                {
+                    "id": 47,
+                    "number": 3,
+                    "title": "These Walls",
+                    "duration": "05:37"
+                },
+                {
+                    "id": 48,
+                    "number": 4,
+                    "title": "I Walk Beside You",
+                    "duration": "04:02"
+                },
+                {
+                    "id": 49,
+                    "number": 5,
+                    "title": "Panic Attack",
+                    "duration": "05:57"
+                },
+                {
+                    "id": 50,
+                    "number": 6,
+                    "title": "Never Enough",
+                    "duration": "03:53"
+                },
+                {
+                    "id": 51,
+                    "number": 7,
+                    "title": "Sacrificed Sons",
+                    "duration": "06:06"
+                },
+                {
+                    "id": 52,
+                    "number": 8,
+                    "title": "Octavarium",
+                    "duration": "08:48"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Metropolis Pt. 2: Scenes from a Memory",
-      "description": "A concept album released in 1999, considered one of the greatest progressive metal albums of all time.",
-      "releaseYear": 1999,
-      "tracks": [
-        {
-          "id": 20,
-          "number": 1,
-          "title": "Regression",
-          "durationInMinutes": 2.06
-        },
-        {
-          "id": 21,
-          "number": 2,
-          "title": "Overture 1928",
-          "durationInMinutes": 3.37
-        },
-        {
-          "id": 22,
-          "number": 3,
-          "title": "Strange Déjà Vu",
-          "durationInMinutes": 5.12
-        },
-        {
-          "id": 23,
-          "number": 4,
-          "title": "Through My Words",
-          "durationInMinutes": 1.02
-        },
-        {
-          "id": 24,
-          "number": 5,
-          "title": "Fatal Tragedy",
-          "durationInMinutes": 6.49
-        },
-        {
-          "id": 25,
-          "number": 6,
-          "title": "Beyond This Life",
-          "durationInMinutes": 11.22
-        },
-        {
-          "id": 26,
-          "number": 7,
-          "title": "Through Her Eyes",
-          "durationInMinutes": 5.29
-        },
-        {
-          "id": 27,
-          "number": 8,
-          "title": "Home",
-          "durationInMinutes": 12.53
-        },
-        {
-          "id": 28,
-          "number": 9,
-          "title": "The Dance of Eternity",
-          "durationInMinutes": 6.13
-        },
-        {
-          "id": 29,
-          "number": 10,
-          "title": "One Last Time",
-          "durationInMinutes": 3.46
-        },
-        {
-          "id": 30,
-          "number": 11,
-          "title": "The Spirit Carries On",
-          "durationInMinutes": 6.38
-        },
-        {
-          "id": 31,
-          "number": 12,
-          "title": "Finally Free",
-          "durationInMinutes": 11.59
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Six Degrees of Inner Turbulence",
-      "description": "A double album released in 2002, with the second disc being a single, 42-minute track divided into eight parts.",
-      "releaseYear": 2002,
-      "tracks": [
-        {
-          "id": 32,
-          "number": 1,
-          "title": "The Glass Prison",
-          "durationInMinutes": 13.52
-        },
-        {
-          "id": 33,
-          "number": 2,
-          "title": "Blind Faith",
-          "durationInMinutes": 10.21
-        },
-        {
-          "id": 34,
-          "number": 3,
-          "title": "Misunderstood",
-          "durationInMinutes": 9.32
-        },
-        {
-          "id": 35,
-          "number": 4,
-          "title": "The Great Debate",
-          "durationInMinutes": 13.45
-        },
-        {
-          "id": 36,
-          "number": 5,
-          "title": "Disappear",
-          "durationInMinutes": 6.45
-        },
-        {
-          "id": 37,
-          "number": 6,
-          "title": "Six Degrees of Inner Turbulence: I. Overture",
-          "durationInMinutes": 6.49
-        },
-        {
-          "id": 38,
-          "number": 7,
-          "title": "Six Degrees of Inner Turbulence: II. About to Crash",
-          "durationInMinutes": 5.51
-        },
-        {
-          "id": 39,
-          "number": 8,
-          "title": "Six Degrees of Inner Turbulence: III. War Inside My Head",
-          "durationInMinutes": 2.08
-        },
-        {
-          "id": 40,
-          "number": 9,
-          "title": "Six Degrees of Inner Turbulence: IV. The Test That Stumped Them All",
-          "durationInMinutes": 5.03
-        },
-        {
-          "id": 41,
-          "number": 10,
-          "title": "Six Degrees of Inner Turbulence: V. Goodnight Kiss",
-          "durationInMinutes": 6.17
-        },
-        {
-          "id": 42,
-          "number": 11,
-          "title": "Six Degrees of Inner Turbulence: VI. Solitary Shell",
-          "durationInMinutes": 5.47
-        },
-        {
-          "id": 43,
-          "number": 12,
-          "title": "Six Degrees of Inner Turbulence: VII. About to Crash (Reprise)",
-          "durationInMinutes": 4.04
-        },
-        {
-          "id": 44,
-          "number": 13,
-          "title": "Six Degrees of Inner Turbulence: VIII. Losing Time / Grand Finale",
-          "durationInMinutes": 6.01
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Octavarium",
-      "description": "Released in 2005, 'Octavarium' is known for its epic 24-minute title track and exploration of the octaves in music.",
-      "releaseYear": 2005,
-      "tracks": [
-        {
-          "id": 45,
-          "number": 1,
-          "title": "The Root of All Evil",
-          "durationInMinutes": 8.25
-        },
-        {
-          "id": 46,
-          "number": 2,
-          "title": "The Answer Lies Within",
-          "durationInMinutes": 5.33
-        },
-        {
-          "id": 47,
-          "number": 3,
-          "title": "These Walls",
-          "durationInMinutes": 7.36
-        },
-        {
-          "id": 48,
-          "number": 4,
-          "title": "I Walk Beside You",
-          "durationInMinutes": 4.29
-        },
-        {
-          "id": 49,
-          "number": 5,
-          "title": "Panic Attack",
-          "durationInMinutes": 7.16
-        },
-        {
-          "id": 50,
-          "number": 6,
-          "title": "Never Enough",
-          "durationInMinutes": 6.46
-        },
-        {
-          "id": 51,
-          "number": 7,
-          "title": "Sacrificed Sons",
-          "durationInMinutes": 10.41
-        },
-        {
-          "id": 52,
-          "number": 8,
-          "title": "Octavarium",
-          "durationInMinutes": 24.00
-        }
-      ]
-    }
-  ]
+    ]
 }
-

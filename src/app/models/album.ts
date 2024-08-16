@@ -7,5 +7,4 @@ export interface Album {
     description: string;
     releaseYear: number;
     tracks: Track[];
-
 }
