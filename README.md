@@ -5,7 +5,7 @@ graph TD
     A[app] --> D[footer]
     C[router] --> E[home]
     C[router] --> F[discography]
-    C[router] --> G[members]
+    C[router] --> G[band]
     F[discography] --> H[album-details]
-    G[members] --> I[member-details]
+    G[band] --> I[band-member-details]
 ```
