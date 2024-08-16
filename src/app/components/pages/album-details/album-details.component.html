@@ -1,10 +1,10 @@
 <div *ngIf="album">
-  <h1>{{ album.title }}</h1>
+  <h1>{{ album.title }} ({{ album.releaseYear }})</h1>
   <img [src]="album.coverUrl" [alt]="album.title" width="500" />
 
   <ul>
     <li *ngFor="let track of album.tracks" class="flex justify-start gap-3">
-      <div>{{ track.number }}.</div>
+      <div class="w-4">{{ track.number }}.</div>
       <div>{{ track.title }}</div>
       <div class="ml-auto">{{ track.duration }}</div>
     </li>

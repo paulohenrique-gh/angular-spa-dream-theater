@@ -1,13 +1,13 @@
 <ul
   class="grid justify-items-center grid-cols-5 justify-evenly w-4/5 container mx-auto gap-4"
 >
-  <li *ngFor="let album of albums">
+  <li *ngFor="let album of albums" class="overflow-hidden rounded">
     <a [routerLink]="[album.id]">
       <img
         [src]="album.coverUrl"
         [alt]="album.title"
         width="300"
-        class="hover:cursor-pointer"
+        class="hover:cursor-pointer hover:scale-105 transition-all duration-500"
       />
     </a>
   </li>
