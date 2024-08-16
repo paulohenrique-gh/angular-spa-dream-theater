@@ -1,388 +1,1022 @@
 {
-    "bandMembers": [
+  "bandMembers": [
+    {
+      "id": 1,
+      "name": "James LaBrie",
+      "instrument": "Vocals",
+      "bio": "James LaBrie is the lead vocalist of Dream Theater, known for his powerful and versatile voice.",
+      "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jlb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "John Petrucci",
+      "instrument": "Guitar",
+      "bio": "John Petrucci is the guitarist and a founding member of Dream Theater, celebrated for his technical proficiency and complex compositions.",
+      "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jp.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jordan Rudess",
+      "instrument": "Keyboards",
+      "bio": "Jordan Rudess is the keyboardist of Dream Theater, known for his virtuosic playing and innovative use of technology.",
+      "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jr.jpg"
+    },
+    {
+      "id": 4,
+      "name": "John Myung",
+      "instrument": "Bass",
+      "bio": "John Myung is the bassist of Dream Theater, recognized for his intricate bass lines and technical skill.",
+      "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jm.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mike Portnoy",
+      "instrument": "Drums",
+      "bio": "Mike Portnoy was the drummer for Dream Theater and one of the founding members, known for his complex rhythms and energetic performances.",
+      "imageUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/portnoy.jpg"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "When Dream and Day Unite",
+      "description": "Dream Theater's debut album released in 1989, showcasing their early progressive metal sound.",
+      "releaseYear": 1989,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/whendreamandday.jpg",
+      "tracks": [
         {
-            "id": 1,
-            "name": "John Petrucci",
-            "instrument": "Guitar",
-            "bio": "John Petrucci is the guitarist of Dream Theater and a founding member. He is widely regarded as one of the greatest guitarists in progressive metal."
+          "id": 1,
+          "number": 1,
+          "title": "A Fortune in Lies",
+          "duration": "04:02"
         },
         {
-            "id": 2,
-            "name": "Mike Portnoy",
-            "instrument": "Drums",
-            "bio": "Mike Portnoy is the original drummer and one of the founding members of Dream Theater. He is known for his complex drumming techniques and was with the band until 2010."
+          "id": 2,
+          "number": 2,
+          "title": "Status Seeker",
+          "duration": "03:52"
         },
         {
-            "id": 3,
-            "name": "John Myung",
-            "instrument": "Bass",
-            "bio": "John Myung is the bassist and a founding member of Dream Theater. He is known for his technical playing style and use of six-string basses."
+          "id": 3,
+          "number": 3,
+          "title": "The Ytse Jam",
+          "duration": "03:22"
         },
         {
-            "id": 4,
-            "name": "James LaBrie",
-            "instrument": "Vocals",
-            "bio": "James LaBrie is the lead vocalist of Dream Theater. He joined the band in 1991 and has been their frontman ever since."
+          "id": 4,
+          "number": 4,
+          "title": "The Killing Hand",
+          "duration": "04:35"
         },
         {
-            "id": 5,
-            "name": "Jordan Rudess",
-            "instrument": "Keyboards",
-            "bio": "Jordan Rudess is the keyboardist of Dream Theater. He joined the band in 1999 and is known for his innovative use of technology in music."
+          "id": 5,
+          "number": 5,
+          "title": "Light Fuse and Get Away",
+          "duration": "04:21"
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "title": "Afterlife",
+          "duration": "03:53"
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "title": "Nothing Left to Lose",
+          "duration": "03:54"
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "title": "The Ones Who Help to Set the Sun",
+          "duration": "03:59"
+        },
+        {
+          "id": 9,
+          "number": 9,
+          "title": "Only a Matter of Time",
+          "duration": "04:22"
         }
-    ],
-    "albums": [
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Images and Words",
+      "description": "Released in 1992, this album is a landmark in progressive metal with its complex compositions and intricate arrangements.",
+      "releaseYear": 1992,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/09/imagesandwords-hq-1.jpg",
+      "tracks": [
         {
-            "id": 1,
-            "title": "Images and Words",
-            "description": "Released in 1992, 'Images and Words' is Dream Theater's second studio album and their most commercially successful release.",
-            "releaseYear": 1992,
-            "tracks": [
-                {
-                    "id": 1,
-                    "number": 1,
-                    "title": "Pull Me Under",
-                    "duration": "08:11"
-                },
-                {
-                    "id": 2,
-                    "number": 2,
-                    "title": "Another Day",
-                    "duration": "04:23"
-                },
-                {
-                    "id": 3,
-                    "number": 3,
-                    "title": "Take the Time",
-                    "duration": "08:21"
-                },
-                {
-                    "id": 4,
-                    "number": 4,
-                    "title": "Surrounded",
-                    "duration": "05:30"
-                },
-                {
-                    "id": 5,
-                    "number": 5,
-                    "title": "Metropolis—Part I: 'The Miracle and the Sleeper'",
-                    "duration": "09:32"
-                },
-                {
-                    "id": 6,
-                    "number": 6,
-                    "title": "Under a Glass Moon",
-                    "duration": "07:03"
-                },
-                {
-                    "id": 7,
-                    "number": 7,
-                    "title": "Wait for Sleep",
-                    "duration": "02:31"
-                },
-                {
-                    "id": 8,
-                    "number": 8,
-                    "title": "Learning to Live",
-                    "duration": "11:30"
-                }
-            ]
+          "id": 10,
+          "number": 1,
+          "title": "Pull Me Under",
+          "duration": "04:43"
         },
         {
-            "id": 2,
-            "title": "Awake",
-            "description": "Released in 1994, 'Awake' is Dream Theater's third studio album and marks a darker, heavier sound for the band.",
-            "releaseYear": 1994,
-            "tracks": [
-                {
-                    "id": 9,
-                    "number": 1,
-                    "title": "6:00",
-                    "duration": "05:31"
-                },
-                {
-                    "id": 10,
-                    "number": 2,
-                    "title": "Caught in a Web",
-                    "duration": "05:28"
-                },
-                {
-                    "id": 11,
-                    "number": 3,
-                    "title": "Innocence Faded",
-                    "duration": "05:43"
-                },
-                {
-                    "id": 12,
-                    "number": 4,
-                    "title": "A Mind Beside Itself: I. Erotomania",
-                    "duration": "06:45"
-                },
-                {
-                    "id": 13,
-                    "number": 5,
-                    "title": "A Mind Beside Itself: II. Voices",
-                    "duration": "09:53"
-                },
-                {
-                    "id": 14,
-                    "number": 6,
-                    "title": "A Mind Beside Itself: III. The Silent Man",
-                    "duration": "03:48"
-                },
-                {
-                    "id": 15,
-                    "number": 7,
-                    "title": "The Mirror",
-                    "duration": "06:45"
-                },
-                {
-                    "id": 16,
-                    "number": 8,
-                    "title": "Lie",
-                    "duration": "06:33"
-                },
-                {
-                    "id": 17,
-                    "number": 9,
-                    "title": "Lifting Shadows Off a Dream",
-                    "duration": "06:05"
-                },
-                {
-                    "id": 18,
-                    "number": 10,
-                    "title": "Scarred",
-                    "duration": "11:00"
-                },
-                {
-                    "id": 19,
-                    "number": 11,
-                    "title": "Space-Dye Vest",
-                    "duration": "07:29"
-                }
-            ]
+          "id": 11,
+          "number": 2,
+          "title": "Another Day",
+          "duration": "03:58"
         },
         {
-            "id": 3,
-            "title": "Metropolis Pt. 2: Scenes from a Memory",
-            "description": "Released in 1999, 'Scenes from a Memory' is a concept album that tells a complex story over its nine tracks.",
-            "releaseYear": 1999,
-            "tracks": [
-                {
-                    "id": 20,
-                    "number": 1,
-                    "title": "Regression",
-                    "duration": "02:06"
-                },
-                {
-                    "id": 21,
-                    "number": 2,
-                    "title": "Overture 1928",
-                    "duration": "03:37"
-                },
-                {
-                    "id": 22,
-                    "number": 3,
-                    "title": "Strange Déjà Vu",
-                    "duration": "05:12"
-                },
-                {
-                    "id": 23,
-                    "number": 4,
-                    "title": "Through My Words",
-                    "duration": "01:02"
-                },
-                {
-                    "id": 24,
-                    "number": 5,
-                    "title": "Fatal Tragedy",
-                    "duration": "06:49"
-                },
-                {
-                    "id": 25,
-                    "number": 6,
-                    "title": "Beyond This Life",
-                    "duration": "11:22"
-                },
-                {
-                    "id": 26,
-                    "number": 7,
-                    "title": "Through Her Eyes",
-                    "duration": "05:29"
-                },
-                {
-                    "id": 27,
-                    "number": 8,
-                    "title": "Home",
-                    "duration": "12:53"
-                },
-                {
-                    "id": 28,
-                    "number": 9,
-                    "title": "The Dance of Eternity",
-                    "duration": "06:13"
-                },
-                {
-                    "id": 29,
-                    "number": 10,
-                    "title": "One Last Time",
-                    "duration": "03:46"
-                },
-                {
-                    "id": 30,
-                    "number": 11,
-                    "title": "The Spirit Carries On",
-                    "duration": "06:38"
-                },
-                {
-                    "id": 31,
-                    "number": 12,
-                    "title": "Finally Free",
-                    "duration": "11:59"
-                }
-            ]
+          "id": 12,
+          "number": 3,
+          "title": "Take the Time",
+          "duration": "04:30"
         },
         {
-            "id": 4,
-            "title": "Six Degrees of Inner Turbulence",
-            "description": "Released in 2002, 'Six Degrees of Inner Turbulence' is a double album that explores themes of mental illness and personal struggles.",
-            "releaseYear": 2002,
-            "tracks": [
-                {
-                    "id": 32,
-                    "number": 1,
-                    "title": "The Glass Prison",
-                    "duration": "13:52"
-                },
-                {
-                    "id": 33,
-                    "number": 2,
-                    "title": "Blind Faith",
-                    "duration": "10:21"
-                },
-                {
-                    "id": 34,
-                    "number": 3,
-                    "title": "Misunderstood",
-                    "duration": "09:34"
-                },
-                {
-                    "id": 35,
-                    "number": 4,
-                    "title": "The Great Debate",
-                    "duration": "13:45"
-                },
-                {
-                    "id": 36,
-                    "number": 5,
-                    "title": "Disappear",
-                    "duration": "06:45"
-                },
-                {
-                    "id": 37,
-                    "number": 6,
-                    "title": "Six Degrees of Inner Turbulence: I. Overture",
-                    "duration": "06:49"
-                },
-                {
-                    "id": 38,
-                    "number": 7,
-                    "title": "Six Degrees of Inner Turbulence: II. About to Crash",
-                    "duration": "05:51"
-                },
-                {
-                    "id": 39,
-                    "number": 8,
-                    "title": "Six Degrees of Inner Turbulence: III. War Inside My Head",
-                    "duration": "02:08"
-                },
-                {
-                    "id": 40,
-                    "number": 9,
-                    "title": "Six Degrees of Inner Turbulence: IV. The Test That Stumped Them All",
-                    "duration": "05:03"
-                },
-                {
-                    "id": 41,
-                    "number": 10,
-                    "title": "Six Degrees of Inner Turbulence: V. Goodnight Kiss",
-                    "duration": "06:17"
-                },
-                {
-                    "id": 42,
-                    "number": 11,
-                    "title": "Six Degrees of Inner Turbulence: VI. Solitary Shell",
-                    "duration": "05:48"
-                },
-                {
-                    "id": 43,
-                    "number": 12,
-                    "title": "Six Degrees of Inner Turbulence: VII. About to Crash (Reprise)",
-                    "duration": "04:04"
-                },
-                {
-                    "id": 44,
-                    "number": 13,
-                    "title": "Six Degrees of Inner Turbulence: VIII. Losing Time/Grand Finale",
-                    "duration": "06:01"
-                }
-            ]
+          "id": 13,
+          "number": 4,
+          "title": "Surrounded",
+          "duration": "05:45"
         },
         {
-            "id": 5,
-            "title": "Octavarium",
-            "description": "Released in 2005, 'Octavarium' is Dream Theater's eighth studio album. It explores themes of circularity and cyclical patterns.",
-            "releaseYear": 2005,
-            "tracks": [
-                {
-                    "id": 45,
-                    "number": 1,
-                    "title": "The Root of All Evil",
-                    "duration": "06:56"
-                },
-                {
-                    "id": 46,
-                    "number": 2,
-                    "title": "The Answer Lies Within",
-                    "duration": "03:50"
-                },
-                {
-                    "id": 47,
-                    "number": 3,
-                    "title": "These Walls",
-                    "duration": "05:37"
-                },
-                {
-                    "id": 48,
-                    "number": 4,
-                    "title": "I Walk Beside You",
-                    "duration": "04:02"
-                },
-                {
-                    "id": 49,
-                    "number": 5,
-                    "title": "Panic Attack",
-                    "duration": "05:57"
-                },
-                {
-                    "id": 50,
-                    "number": 6,
-                    "title": "Never Enough",
-                    "duration": "03:53"
-                },
-                {
-                    "id": 51,
-                    "number": 7,
-                    "title": "Sacrificed Sons",
-                    "duration": "06:06"
-                },
-                {
-                    "id": 52,
-                    "number": 8,
-                    "title": "Octavarium",
-                    "duration": "08:48"
-                }
-            ]
+          "id": 14,
+          "number": 5,
+          "title": "Metropolis—Part I: The Miracle and the Sleeper",
+          "duration": "03:50"
+        },
+        {
+          "id": 15,
+          "number": 6,
+          "title": "Under a Glass Moon",
+          "duration": "05:04"
+        },
+        {
+          "id": 16,
+          "number": 7,
+          "title": "Wait for Sleep",
+          "duration": "02:31"
+        },
+        {
+          "id": 17,
+          "number": 8,
+          "title": "Learning to Live",
+          "duration": "06:00"
         }
-    ]
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Awake",
+      "description": "Dream Theater's third studio album released in 1994, featuring a darker and more aggressive sound.",
+      "releaseYear": 1994,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/awake-800px.jpg",
+      "tracks": [
+        {
+          "id": 18,
+          "number": 1,
+          "title": "6:00",
+          "duration": "04:55"
+        },
+        {
+          "id": 19,
+          "number": 2,
+          "title": "Caught in a Web",
+          "duration": "04:45"
+        },
+        {
+          "id": 20,
+          "number": 3,
+          "title": "A Mind Beside Itself: I. Nurture",
+          "duration": "03:41"
+        },
+        {
+          "id": 21,
+          "number": 4,
+          "title": "A Mind Beside Itself: II. Rebirth",
+          "duration": "01:44"
+        },
+        {
+          "id": 22,
+          "number": 5,
+          "title": "A Mind Beside Itself: III. The Silent Man",
+          "duration": "03:43"
+        },
+        {
+          "id": 23,
+          "number": 6,
+          "title": "The Mirror",
+          "duration": "03:03"
+        },
+        {
+          "id": 24,
+          "number": 7,
+          "title": "Lie",
+          "duration": "04:06"
+        },
+        {
+          "id": 25,
+          "number": 8,
+          "title": "Lifting Shadows Off a Dream",
+          "duration": "01:50"
+        },
+        {
+          "id": 26,
+          "number": 9,
+          "title": "Scarred",
+          "duration": "05:14"
+        },
+        {
+          "id": 27,
+          "number": 10,
+          "title": "The Eleventh Hour",
+          "duration": "04:30"
+        },
+        {
+          "id": 28,
+          "number": 11,
+          "title": "The Way It Is",
+          "duration": "04:09"
+        },
+        {
+          "id": 29,
+          "number": 12,
+          "title": "space-Dye Vest",
+          "duration": "05:46"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "A Change of Seasons",
+      "description": "A single EP released in 1995 that showcases the band's skill in extended compositions.",
+      "releaseYear": 1995,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/changeofseasons.jpg",
+      "tracks": [
+        {
+          "id": 30,
+          "number": 1,
+          "title": "A Change of Seasons",
+          "duration": "19:09"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Falling into Infinity",
+      "description": "Released in 1997, this album is known for its more polished sound and more accessible songwriting.",
+      "releaseYear": 1997,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/falling.jpg",
+      "tracks": [
+        {
+          "id": 31,
+          "number": 1,
+          "title": "New Millenium",
+          "duration": "05:09"
+        },
+        {
+          "id": 32,
+          "number": 2,
+          "title": "You Not Me",
+          "duration": "04:35"
+        },
+        {
+          "id": 33,
+          "number": 3,
+          "title": "Peruvian Skies",
+          "duration": "04:33"
+        },
+        {
+          "id": 34,
+          "number": 4,
+          "title": "Hollow Years",
+          "duration": "04:01"
+        },
+        {
+          "id": 35,
+          "number": 5,
+          "title": "Burning My Soul",
+          "duration": "03:50"
+        },
+        {
+          "id": 36,
+          "number": 6,
+          "title": "Hell's Kitchen",
+          "duration": "01:53"
+        },
+        {
+          "id": 37,
+          "number": 7,
+          "title": "Lines in the Sand",
+          "duration": "06:05"
+        },
+        {
+          "id": 38,
+          "number": 8,
+          "title": "Take Away My Pain",
+          "duration": "03:59"
+        },
+        {
+          "id": 39,
+          "number": 9,
+          "title": "Just Let Me Breathe",
+          "duration": "05:09"
+        },
+        {
+          "id": 40,
+          "number": 10,
+          "title": "Anna Lee",
+          "duration": "03:57"
+        },
+        {
+          "id": 41,
+          "number": 11,
+          "title": "Trial of Tears",
+          "duration": "06:51"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Metropolis Pt. 2: Scenes from a Memory",
+      "description": "A concept album released in 1999, often hailed as one of Dream Theater's greatest achievements.",
+      "releaseYear": 1999,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/metropolispart2.jpg",
+      "tracks": [
+        {
+          "id": 42,
+          "number": 1,
+          "title": "Regression",
+          "duration": "02:07"
+        },
+        {
+          "id": 43,
+          "number": 2,
+          "title": "Across the Styx",
+          "duration": "03:10"
+        },
+        {
+          "id": 44,
+          "number": 3,
+          "title": "Through My Words",
+          "duration": "01:05"
+        },
+        {
+          "id": 45,
+          "number": 4,
+          "title": "The Dance of Eternity",
+          "duration": "05:13"
+        },
+        {
+          "id": 46,
+          "number": 5,
+          "title": "One Last Time",
+          "duration": "03:46"
+        },
+        {
+          "id": 47,
+          "number": 6,
+          "title": "The Spirit Carries On",
+          "duration": "05:40"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Six Degrees of Inner Turbulence",
+      "description": "Released in 2002, this double album is known for its ambitious and diverse compositions.",
+      "releaseYear": 2002,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/sixdegrees.jpg",
+      "tracks": [
+        {
+          "id": 48,
+          "number": 1,
+          "title": "The Glass Prison",
+          "duration": "05:49"
+        },
+        {
+          "id": 49,
+          "number": 2,
+          "title": "Blind Faith",
+          "duration": "05:31"
+        },
+        {
+          "id": 50,
+          "number": 3,
+          "title": "Misunderstood",
+          "duration": "05:18"
+        },
+        {
+          "id": 51,
+          "number": 4,
+          "title": "The Great Debate",
+          "duration": "06:00"
+        },
+        {
+          "id": 52,
+          "number": 5,
+          "title": "Disappear",
+          "duration": "05:03"
+        },
+        {
+          "id": 53,
+          "number": 6,
+          "title": "The Test That Stumped Them All",
+          "duration": "05:11"
+        },
+        {
+          "id": 54,
+          "number": 7,
+          "title": "Goodnight Kiss",
+          "duration": "04:55"
+        },
+        {
+          "id": 55,
+          "number": 8,
+          "title": "Solitary Shell",
+          "duration": "05:18"
+        },
+        {
+          "id": 56,
+          "number": 9,
+          "title": "About to Crash",
+          "duration": "05:40"
+        },
+        {
+          "id": 57,
+          "number": 10,
+          "title": "Losing Time/Grand Finale",
+          "duration": "04:15"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Train of Thought",
+      "description": "Released in 2003, this album features a heavier and more aggressive sound.",
+      "releaseYear": 2003,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/trainofthought.jpg",
+      "tracks": [
+        {
+          "id": 58,
+          "number": 1,
+          "title": "As I Am",
+          "duration": "04:46"
+        },
+        {
+          "id": 59,
+          "number": 2,
+          "title": "This Dying Soul",
+          "duration": "04:03"
+        },
+        {
+          "id": 60,
+          "number": 3,
+          "title": "Endless Sacrifice",
+          "duration": "05:10"
+        },
+        {
+          "id": 61,
+          "number": 4,
+          "title": "Honor Thy Father",
+          "duration": "05:49"
+        },
+        {
+          "id": 62,
+          "number": 5,
+          "title": "Vacant",
+          "duration": "03:49"
+        },
+        {
+          "id": 63,
+          "number": 6,
+          "title": "Stream of Consciousness",
+          "duration": "06:20"
+        },
+        {
+          "id": 64,
+          "number": 7,
+          "title": "Innocence Faded",
+          "duration": "04:35"
+        },
+        {
+          "id": 65,
+          "number": 8,
+          "title": "Leviathan",
+          "duration": "04:10"
+        },
+        {
+          "id": 66,
+          "number": 9,
+          "title": "The Dark Eternal Night",
+          "duration": "05:15"
+        },
+        {
+          "id": 67,
+          "number": 10,
+          "title": "In the Name of God",
+          "duration": "06:56"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Octavarium",
+      "description": "Released in 2005, this album explores a wide range of musical styles and themes.",
+      "releaseYear": 2005,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/octavarium.jpg",
+      "tracks": [
+        {
+          "id": 68,
+          "number": 1,
+          "title": "The Root of All Evil",
+          "duration": "05:47"
+        },
+        {
+          "id": 69,
+          "number": 2,
+          "title": "The Answer Lies Within",
+          "duration": "03:58"
+        },
+        {
+          "id": 70,
+          "number": 3,
+          "title": "These Walls",
+          "duration": "05:18"
+        },
+        {
+          "id": 71,
+          "number": 4,
+          "title": "I Walk Beside You",
+          "duration": "03:53"
+        },
+        {
+          "id": 72,
+          "number": 5,
+          "title": "Panic Attack",
+          "duration": "04:18"
+        },
+        {
+          "id": 73,
+          "number": 6,
+          "title": "Never Enough",
+          "duration": "03:54"
+        },
+        {
+          "id": 74,
+          "number": 7,
+          "title": "Sacrificed Sons",
+          "duration": "05:33"
+        },
+        {
+          "id": 75,
+          "number": 8,
+          "title": "Octavarium",
+          "duration": "08:48"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Systematic Chaos",
+      "description": "Released in 2007, this album continues the band's exploration of complex and heavy music.",
+      "releaseYear": 2007,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/systematicchaos-800px.jpg",
+      "tracks": [
+        {
+          "id": 76,
+          "number": 1,
+          "title": "In the Presence of Enemies - Part I",
+          "duration": "06:46"
+        },
+        {
+          "id": 77,
+          "number": 2,
+          "title": "Forsaken",
+          "duration": "03:56"
+        },
+        {
+          "id": 78,
+          "number": 3,
+          "title": "Constant Motion",
+          "duration": "04:03"
+        },
+        {
+          "id": 79,
+          "number": 4,
+          "title": "The Dark Eternal Night",
+          "duration": "05:15"
+        },
+        {
+          "id": 80,
+          "number": 5,
+          "title": "The Ministry of Lost Souls",
+          "duration": "06:02"
+        },
+        {
+          "id": 81,
+          "number": 6,
+          "title": "The Glass Prison",
+          "duration": "05:49"
+        },
+        {
+          "id": 82,
+          "number": 7,
+          "title": "The Last Farewell",
+          "duration": "05:58"
+        },
+        {
+          "id": 83,
+          "number": 8,
+          "title": "In the Presence of Enemies - Part II",
+          "duration": "08:08"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Black Clouds & Silver Linings",
+      "description": "Released in 2009, this album features a mix of aggressive and melodic tracks.",
+      "releaseYear": 2009,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/blackclouds.jpg",
+      "tracks": [
+        {
+          "id": 84,
+          "number": 1,
+          "title": "A Nightmare to Remember",
+          "duration": "06:56"
+        },
+        {
+          "id": 85,
+          "number": 2,
+          "title": "A Rite of Passage",
+          "duration": "05:05"
+        },
+        {
+          "id": 86,
+          "number": 3,
+          "title": "Wither",
+          "duration": "03:33"
+        },
+        {
+          "id": 87,
+          "number": 4,
+          "title": "The Shattered Fortress",
+          "duration": "06:46"
+        },
+        {
+          "id": 88,
+          "number": 5,
+          "title": "The Best of Times",
+          "duration": "04:57"
+        },
+        {
+          "id": 89,
+          "number": 6,
+          "title": "The Count of Tuscany",
+          "duration": "08:58"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "A Dramatic Turn of Events",
+      "description": "Released in 2011, this album features the band's first studio work with Mike Mangini as their drummer.",
+      "releaseYear": 2011,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/dramaticturnofevents-800px-squashed.jpg",
+      "tracks": [
+        {
+          "id": 90,
+          "number": 1,
+          "title": "The Root of All Evil",
+          "duration": "06:37"
+        },
+        {
+          "id": 91,
+          "number": 2,
+          "title": "The Shattered Fortress",
+          "duration": "05:51"
+        },
+        {
+          "id": 92,
+          "number": 3,
+          "title": "On the Backs of Angels",
+          "duration": "05:43"
+        },
+        {
+          "id": 93,
+          "number": 4,
+          "title": "Lost Not Forgotten",
+          "duration": "05:43"
+        },
+        {
+          "id": 94,
+          "number": 5,
+          "title": "This Is the Life",
+          "duration": "04:21"
+        },
+        {
+          "id": 95,
+          "number": 6,
+          "title": "Bridges in the Sky",
+          "duration": "05:41"
+        },
+        {
+          "id": 96,
+          "number": 7,
+          "title": "Outcry",
+          "duration": "05:24"
+        },
+        {
+          "id": 97,
+          "number": 8,
+          "title": "Far from Heaven",
+          "duration": "04:12"
+        },
+        {
+          "id": 98,
+          "number": 9,
+          "title": "Breaking All Illusions",
+          "duration": "06:27"
+        },
+        {
+          "id": 99,
+          "number": 10,
+          "title": "Beneath the Surface",
+          "duration": "03:58"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Dream Theater",
+      "description": "Released in 2013, this self-titled album is known for its blend of the band's classic and contemporary styles.",
+      "releaseYear": 2013,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/DT12-cover.jpg",
+      "tracks": [
+        {
+          "id": 100,
+          "number": 1,
+          "title": "False Awakening Suite",
+          "duration": "03:48"
+        },
+        {
+          "id": 101,
+          "number": 2,
+          "title": "The Enemy Inside",
+          "duration": "04:07"
+        },
+        {
+          "id": 102,
+          "number": 3,
+          "title": "The Looking Glass",
+          "duration": "04:51"
+        },
+        {
+          "id": 103,
+          "number": 4,
+          "title": "Enigma Machine",
+          "duration": "05:03"
+        },
+        {
+          "id": 104,
+          "number": 5,
+          "title": "The Bigger Picture",
+          "duration": "06:47"
+        },
+        {
+          "id": 105,
+          "number": 6,
+          "title": "Behind the Veil",
+          "duration": "04:24"
+        },
+        {
+          "id": 106,
+          "number": 7,
+          "title": "Surrender to Reason",
+          "duration": "03:49"
+        },
+        {
+          "id": 107,
+          "number": 8,
+          "title": "Along for the Ride",
+          "duration": "04:05"
+        },
+        {
+          "id": 108,
+          "number": 9,
+          "title": "Illumination Theory",
+          "duration": "06:16"
+        },
+        {
+          "id": 109,
+          "number": 10,
+          "title": "The Path of Least Resistance",
+          "duration": "03:42"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The Astonishing",
+      "description": "A double concept album released in 2016, featuring a grand narrative and ambitious storytelling.",
+      "releaseYear": 2016,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/astonishing.jpg",
+      "tracks": [
+        {
+          "id": 110,
+          "number": 1,
+          "title": "Descent of the Nomacs",
+          "duration": "02:14"
+        },
+        {
+          "id": 111,
+          "number": 2,
+          "title": "Dystopian Overture",
+          "duration": "03:24"
+        },
+        {
+          "id": 112,
+          "number": 3,
+          "title": "The Gift of Music",
+          "duration": "03:36"
+        },
+        {
+          "id": 113,
+          "number": 4,
+          "title": "A Better Life",
+          "duration": "03:18"
+        },
+        {
+          "id": 114,
+          "number": 5,
+          "title": "Lord Nafaryus",
+          "duration": "05:29"
+        },
+        {
+          "id": 115,
+          "number": 6,
+          "title": "Hymn of a Thousand Voices",
+          "duration": "05:10"
+        },
+        {
+          "id": 116,
+          "number": 7,
+          "title": "Our New World",
+          "duration": "05:07"
+        },
+        {
+          "id": 117,
+          "number": 8,
+          "title": "Begin Again",
+          "duration": "03:54"
+        },
+        {
+          "id": 118,
+          "number": 9,
+          "title": "A Life Left Behind",
+          "duration": "04:25"
+        },
+        {
+          "id": 119,
+          "number": 10,
+          "title": "Rite of Passage",
+          "duration": "04:13"
+        },
+        {
+          "id": 120,
+          "number": 11,
+          "title": "The Hovering Sojourn",
+          "duration": "05:09"
+        },
+        {
+          "id": 121,
+          "number": 12,
+          "title": "Brother, Can You Hear Me?",
+          "duration": "02:53"
+        },
+        {
+          "id": 122,
+          "number": 13,
+          "title": "Heaven's Cove",
+          "duration": "03:16"
+        },
+        {
+          "id": 123,
+          "number": 14,
+          "title": "In the Name of the Father",
+          "duration": "04:36"
+        },
+        {
+          "id": 124,
+          "number": 15,
+          "title": "Astonishing",
+          "duration": "06:14"
+        },
+        {
+          "id": 125,
+          "number": 16,
+          "title": "The Path That Divides",
+          "duration": "04:38"
+        },
+        {
+          "id": 126,
+          "number": 17,
+          "title": "The Road to Revolution",
+          "duration": "04:44"
+        },
+        {
+          "id": 127,
+          "number": 18,
+          "title": "Prime Time",
+          "duration": "03:24"
+        },
+        {
+          "id": 128,
+          "number": 19,
+          "title": "Fantasmagoria",
+          "duration": "04:12"
+        },
+        {
+          "id": 129,
+          "number": 20,
+          "title": "The Hovering Sojourn",
+          "duration": "05:09"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Distance Over Time",
+      "description": "Released in 2019, this album features a mix of progressive and melodic metal.",
+      "releaseYear": 2019,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2018/11/Distance.Over_.Time_.COVER_.3000x3000.jpg",
+      "tracks": [
+        {
+          "id": 130,
+          "number": 1,
+          "title": "Untethered Angel",
+          "duration": "04:00"
+        },
+        {
+          "id": 131,
+          "number": 2,
+          "title": "Paralyzed",
+          "duration": "04:15"
+        },
+        {
+          "id": 132,
+          "number": 3,
+          "title": "Prey", 
+          "duration": "04:00"
+        },
+        {
+          "id": 133,
+          "number": 4,
+          "title": "Fall into the Light",
+          "duration": "05:25"
+        },
+        {
+          "id": 134,
+          "number": 5,
+          "title": "Barstool Warrior",
+          "duration": "04:02"
+        },
+        {
+          "id": 135,
+          "number": 6,
+          "title": "Roots of the Tree",
+          "duration": "04:05"
+        },
+        {
+          "id": 136,
+          "number": 7,
+          "title": "S2N",
+          "duration": "03:22"
+        },
+        {
+          "id": 137,
+          "number": 8,
+          "title": "Out of Reach",
+          "duration": "03:32"
+        },
+        {
+          "id": 138,
+          "number": 9,
+          "title": "Pale Blue Dot",
+          "duration": "05:15"
+        },
+        {
+          "id": 139,
+          "number": 10,
+          "title": "Viper King",
+          "duration": "03:53"
+        },
+        {
+          "id": 140,
+          "number": 11,
+          "title": "Hate Machine",
+          "duration": "05:23"
+        },
+        {
+          "id": 141,
+          "number": 12,
+          "title": "At Wit's End",
+          "duration": "06:38"
+        }
+      ]
+    }
+  ]
 }

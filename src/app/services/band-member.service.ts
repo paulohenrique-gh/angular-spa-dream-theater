@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { BandMember } from '../models/bandMember';
+import { BandMember } from '../models/band-member';
 import { Observable } from 'rxjs';
 
 @Injectable({

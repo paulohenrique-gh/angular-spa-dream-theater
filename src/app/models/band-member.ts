@@ -3,4 +3,5 @@ export interface BandMember {
     name: string;
     instrument: string;
     bio: string;
+    imageUrl: string;
 }

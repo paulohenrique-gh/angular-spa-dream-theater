@@ -6,5 +6,6 @@ export interface Album {
     title: string;
     description: string;
     releaseYear: number;
+    coverUrl: string;
     tracks: Track[];
 }
