@@ -40,120 +40,98 @@
     {
       "id": 1,
       "title": "When Dream and Day Unite",
-      "description": "Dream Theater's debut album released in 1989, showcasing their early progressive metal sound.",
+      "description": "When Dream and Day Unite is the debut studio album by Dream Theater, released on March 6, 1989 through Mechanic/MCA Records. The album is composed mainly of material that originally surfaced during the band's early years as Majesty, and is the only Dream Theater album to feature Charlie Dominici on vocals, as James LaBrie replaced Dominici as the lead vocalist on subsequent albums.",
       "releaseYear": 1989,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/whendreamandday.jpg",
       "tracks": [
         {
-          "id": 1,
           "number": 1,
           "title": "A Fortune in Lies",
-          "duration": "04:02"
+          "duration": "05:11"
         },
         {
-          "id": 2,
           "number": 2,
           "title": "Status Seeker",
-          "duration": "03:52"
+          "duration": "04:16"
         },
         {
-          "id": 3,
           "number": 3,
-          "title": "The Ytse Jam",
-          "duration": "03:22"
+          "title": "Ytse Jam",
+          "duration": "05:41"
         },
         {
-          "id": 4,
           "number": 4,
           "title": "The Killing Hand",
-          "duration": "04:35"
+          "duration": "08:39"
         },
         {
-          "id": 5,
           "number": 5,
           "title": "Light Fuse and Get Away",
-          "duration": "04:21"
+          "duration": "07:22"
         },
         {
-          "id": 6,
           "number": 6,
           "title": "Afterlife",
-          "duration": "03:53"
+          "duration": "05:26"
         },
         {
-          "id": 7,
           "number": 7,
-          "title": "Nothing Left to Lose",
-          "duration": "03:54"
-        },
-        {
-          "id": 8,
-          "number": 8,
           "title": "The Ones Who Help to Set the Sun",
-          "duration": "03:59"
+          "duration": "08:03"
         },
         {
-          "id": 9,
-          "number": 9,
+          "number": 8,
           "title": "Only a Matter of Time",
-          "duration": "04:22"
+          "duration": "06:35"
         }
       ]
     },
     {
       "id": 2,
       "title": "Images and Words",
-      "description": "Released in 1992, this album is a landmark in progressive metal with its complex compositions and intricate arrangements.",
+      "description": "Images and Words is the second studio album by Dream Theater, released on July 7, 1992 through ATCO Records. It is the first Dream Theater release to feature James LaBrie on vocals. The album maintains its position as the band's most commercially successful studio album to date, and the song \"Pull Me Under\" has the distinction of being the only top-10 hit (radio or otherwise) the band has had to date.",
       "releaseYear": 1992,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/09/imagesandwords-hq-1.jpg",
       "tracks": [
         {
-          "id": 10,
           "number": 1,
           "title": "Pull Me Under",
-          "duration": "04:43"
+          "duration": "08:13"
         },
         {
-          "id": 11,
           "number": 2,
           "title": "Another Day",
-          "duration": "03:58"
+          "duration": "04:23"
         },
         {
-          "id": 12,
           "number": 3,
           "title": "Take the Time",
-          "duration": "04:30"
+          "duration": "08:20"
         },
         {
-          "id": 13,
           "number": 4,
           "title": "Surrounded",
-          "duration": "05:45"
+          "duration": "05:30"
         },
         {
-          "id": 14,
           "number": 5,
           "title": "Metropolis—Part I: The Miracle and the Sleeper",
-          "duration": "03:50"
+          "duration": "09:32"
         },
         {
-          "id": 15,
           "number": 6,
           "title": "Under a Glass Moon",
-          "duration": "05:04"
+          "duration": "07:03"
         },
         {
-          "id": 16,
           "number": 7,
           "title": "Wait for Sleep",
           "duration": "02:31"
         },
         {
-          "id": 17,
           "number": 8,
           "title": "Learning to Live",
-          "duration": "06:00"
+          "duration": "11:30"
         }
       ]
     },
@@ -165,856 +143,901 @@
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/awake-800px.jpg",
       "tracks": [
         {
-          "id": 18,
           "number": 1,
           "title": "6:00",
-          "duration": "04:55"
+          "duration": "05:31"
         },
         {
-          "id": 19,
           "number": 2,
           "title": "Caught in a Web",
-          "duration": "04:45"
+          "duration": "05:28"
         },
         {
-          "id": 20,
           "number": 3,
-          "title": "A Mind Beside Itself: I. Nurture",
-          "duration": "03:41"
+          "title": "Innocence Faded",
+          "duration": "05:42"
         },
         {
-          "id": 21,
           "number": 4,
-          "title": "A Mind Beside Itself: II. Rebirth",
-          "duration": "01:44"
+          "title": "A Mind Beside Itself: I. Erotomania",
+          "duration": "06:44"
         },
         {
-          "id": 22,
           "number": 5,
-          "title": "A Mind Beside Itself: III. The Silent Man",
-          "duration": "03:43"
+          "title": "A Mind Beside Itself: II. Voices",
+          "duration": "09:53"
         },
         {
-          "id": 23,
           "number": 6,
-          "title": "The Mirror",
-          "duration": "03:03"
+          "title": "A Mind Beside Itself: III. The Silent Man",
+          "duration": "03:47"
         },
         {
-          "id": 24,
           "number": 7,
-          "title": "Lie",
-          "duration": "04:06"
+          "title": "The Mirror",
+          "duration": "06:45"
         },
         {
-          "id": 25,
           "number": 8,
-          "title": "Lifting Shadows Off a Dream",
-          "duration": "01:50"
+          "title": "Lie",
+          "duration": "06:33"
         },
         {
-          "id": 26,
           "number": 9,
-          "title": "Scarred",
-          "duration": "05:14"
+          "title": "Lifting Shadows Off a Dream",
+          "duration": "06:05"
         },
         {
-          "id": 27,
           "number": 10,
-          "title": "The Eleventh Hour",
-          "duration": "04:30"
+          "title": "Scarred",
+          "duration": "10:59"
         },
         {
-          "id": 28,
           "number": 11,
-          "title": "The Way It Is",
-          "duration": "04:09"
-        },
-        {
-          "id": 29,
-          "number": 12,
-          "title": "space-Dye Vest",
-          "duration": "05:46"
+          "title": "Space-Dye Vest",
+          "duration": "07:29"
         }
       ]
     },
     {
       "id": 4,
       "title": "A Change of Seasons",
-      "description": "A single EP released in 1995 that showcases the band's skill in extended compositions.",
+      "description": "A Change of Seasons is an EP by progressive metal band Dream Theater, first released on September 19, 1995, through East West Records. It comprises the 23-minute title track and a collection of live cover songs performed at a fan club concert at Ronnie Scott's Jazz Club in London, England.",
       "releaseYear": 1995,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/changeofseasons.jpg",
       "tracks": [
         {
-          "id": 30,
           "number": 1,
           "title": "A Change of Seasons",
-          "duration": "19:09"
+          "duration": "23:08"
+        },
+        {
+          "number": 2,
+          "title": "Funeral for a Friend / Love Lies Bleeding",
+          "duration": "10:49"
+        },
+        {
+          "number": 3,
+          "title": "Perfect Strangers",
+          "duration": "05:33"
+        },
+        {
+          "number": 4,
+          "title": "The Rover / Achilles Last Stand / The Song Remains the Same",
+          "duration": "07:28"
+        },
+        {
+          "number": 5,
+          "title": "The Big Medley: In the Flesh? / Carry On Wayward Son / Bohemian Rhapsody / Lovin', Touchin', Squeezin' / Cruise Control / Turn It on Again",
+          "duration": "10:33"
         }
       ]
     },
     {
       "id": 5,
       "title": "Falling into Infinity",
-      "description": "Released in 1997, this album is known for its more polished sound and more accessible songwriting.",
+      "description": "Falling Into Infinity is the fourth studio album by Dream Theater, released on September 23, 1997 through EastWest Records. It is the band's first and only studio album to feature keyboardist Derek Sherinian following the departure of Kevin Moore in 1994.",
       "releaseYear": 1997,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/falling.jpg",
       "tracks": [
         {
-          "id": 31,
           "number": 1,
           "title": "New Millenium",
-          "duration": "05:09"
+          "duration": "08:20"
         },
         {
-          "id": 32,
           "number": 2,
           "title": "You Not Me",
-          "duration": "04:35"
+          "duration": "04:58"
         },
         {
-          "id": 33,
           "number": 3,
           "title": "Peruvian Skies",
-          "duration": "04:33"
+          "duration": "06:43"
         },
         {
-          "id": 34,
           "number": 4,
           "title": "Hollow Years",
-          "duration": "04:01"
+          "duration": "05:53"
         },
         {
-          "id": 35,
           "number": 5,
           "title": "Burning My Soul",
-          "duration": "03:50"
+          "duration": "05:29"
         },
         {
-          "id": 36,
           "number": 6,
           "title": "Hell's Kitchen",
-          "duration": "01:53"
+          "duration": "04:16"
         },
         {
-          "id": 37,
           "number": 7,
           "title": "Lines in the Sand",
-          "duration": "06:05"
+          "duration": "12:05"
         },
         {
-          "id": 38,
           "number": 8,
           "title": "Take Away My Pain",
-          "duration": "03:59"
+          "duration": "06:03"
         },
         {
-          "id": 39,
           "number": 9,
           "title": "Just Let Me Breathe",
-          "duration": "05:09"
+          "duration": "05:28"
         },
         {
-          "id": 40,
           "number": 10,
           "title": "Anna Lee",
-          "duration": "03:57"
+          "duration": "05:51"
         },
         {
-          "id": 41,
           "number": 11,
           "title": "Trial of Tears",
-          "duration": "06:51"
+          "duration": "13:03"
         }
       ]
     },
     {
       "id": 6,
       "title": "Metropolis Pt. 2: Scenes from a Memory",
-      "description": "A concept album released in 1999, often hailed as one of Dream Theater's greatest achievements.",
+      "description": "\"Metropolis Pt. 2: Scenes from a Memory\" is the sequel to \"Metropolis—Part I: \"The Miracle and the Sleeper\"\", a song previously featured on the band's 1992 album Images and Words. It was also the first album to feature Jordan Rudess on keyboards, and the last for which John Myung wrote lyrics until A Dramatic Turn of Events (2011).",
       "releaseYear": 1999,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/metropolispart2.jpg",
       "tracks": [
         {
-          "id": 42,
           "number": 1,
           "title": "Regression",
-          "duration": "02:07"
+          "duration": "02:06"
         },
         {
-          "id": 43,
           "number": 2,
-          "title": "Across the Styx",
-          "duration": "03:10"
+          "title": "Overture 1928",
+          "duration": "03:37"
         },
         {
-          "id": 44,
           "number": 3,
-          "title": "Through My Words",
-          "duration": "01:05"
+          "title": "Strange Déjà Vu",
+          "duration": "05:12"
         },
         {
-          "id": 45,
           "number": 4,
-          "title": "The Dance of Eternity",
-          "duration": "05:13"
+          "title": "Through My Words",
+          "duration": "01:02"
         },
         {
-          "id": 46,
           "number": 5,
+          "title": "Fatal Tragedy",
+          "duration": "06:49"
+        },
+        {
+          "number": 6,
+          "title": "Beyond This Life",
+          "duration": "11:22"
+        },
+        {
+          "number": 7,
+          "title": "Through Her Eyes",
+          "duration": "06:13"
+        },
+        {
+          "number": 8,
+          "title": "Home",
+          "duration": "12:53"
+        },
+        {
+          "number": 9,
+          "title": "The Dance of Eternity",
+          "duration": "06:13"
+        },
+        {
+          "number": 10,
           "title": "One Last Time",
           "duration": "03:46"
         },
         {
-          "id": 47,
-          "number": 6,
+          "number": 11,
           "title": "The Spirit Carries On",
-          "duration": "05:40"
+          "duration": "06:38"
+        },
+        {
+          "number": 12,
+          "title": "Finally Free",
+          "duration": "11:59"
         }
       ]
     },
     {
       "id": 7,
       "title": "Six Degrees of Inner Turbulence",
-      "description": "Released in 2002, this double album is known for its ambitious and diverse compositions.",
+      "description": "Six Degrees of Inner Turbulence is the sixth full-length studio album by Dream Theater, released as a double-disc album on January 29, 2002 through Elektra Records. The album explores different themes of lifetime struggle, such as alcoholism, loss of faith, self-isolation, sanctity of life and death. The title track, a 42-minute track occupying the second disc, separated into eight parts - explores the stories of six individuals suffering from various mental illnesses.",
       "releaseYear": 2002,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/sixdegrees.jpg",
       "tracks": [
         {
-          "id": 48,
           "number": 1,
           "title": "The Glass Prison",
-          "duration": "05:49"
+          "duration": "13:52"
         },
         {
-          "id": 49,
           "number": 2,
           "title": "Blind Faith",
-          "duration": "05:31"
+          "duration": "10:21"
         },
         {
-          "id": 50,
           "number": 3,
           "title": "Misunderstood",
-          "duration": "05:18"
+          "duration": "09:32"
         },
         {
-          "id": 51,
           "number": 4,
           "title": "The Great Debate",
-          "duration": "06:00"
+          "duration": "13:43"
         },
         {
-          "id": 52,
           "number": 5,
           "title": "Disappear",
+          "duration": "06:46"
+        },
+        {
+          "number": 6,
+          "title": "Overture",
+          "duration": "06:50"
+        },
+        {
+          "number": 7,
+          "title": "About to Crash",
+          "duration": "05:51"
+        },
+        {
+          "number": 8,
+          "title": "War Inside My Head",
+          "duration": "02:08"
+        },
+        {
+          "number": 9,
+          "title": "The Test That Stumped Them All",
           "duration": "05:03"
         },
         {
-          "id": 53,
-          "number": 6,
-          "title": "The Test That Stumped Them All",
-          "duration": "05:11"
-        },
-        {
-          "id": 54,
-          "number": 7,
-          "title": "Goodnight Kiss",
-          "duration": "04:55"
-        },
-        {
-          "id": 55,
-          "number": 8,
-          "title": "Solitary Shell",
-          "duration": "05:18"
-        },
-        {
-          "id": 56,
-          "number": 9,
-          "title": "About to Crash",
-          "duration": "05:40"
-        },
-        {
-          "id": 57,
           "number": 10,
+          "title": "Goodnight Kiss",
+          "duration": "06:17"
+        },
+        {
+          "number": 11,
+          "title": "Solitary Shell",
+          "duration": "05:48"
+        },
+        {
+          "number": 12,
+          "title": "About to Crash (Reprise)",
+          "duration": "04:04"
+        },
+        {
+          "number": 13,
           "title": "Losing Time/Grand Finale",
-          "duration": "04:15"
+          "duration": "06:01"
         }
       ]
     },
     {
       "id": 8,
       "title": "Train of Thought",
-      "description": "Released in 2003, this album features a heavier and more aggressive sound.",
+      "description": "Train of Thought is the seventh studio album by Dream Theater. Inspired by the audience response to Dream Theater's heavier songs while on tour, the band wanted Train of Thought to be a \"balls to the wall\" album with heavier, darker riffing, exposing them to a number of new metal fans. The album was written in three weeks and was engineered by Doug Oberkircher and mixed by Kevin Shirley.",
       "releaseYear": 2003,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/trainofthought.jpg",
       "tracks": [
         {
-          "id": 58,
           "number": 1,
           "title": "As I Am",
-          "duration": "04:46"
+          "duration": "07:47"
         },
         {
-          "id": 59,
           "number": 2,
           "title": "This Dying Soul",
-          "duration": "04:03"
+          "duration": "11:28"
         },
         {
-          "id": 60,
           "number": 3,
           "title": "Endless Sacrifice",
-          "duration": "05:10"
+          "duration": "11:24"
         },
         {
-          "id": 61,
           "number": 4,
           "title": "Honor Thy Father",
-          "duration": "05:49"
+          "duration": "10:14"
         },
         {
-          "id": 62,
           "number": 5,
           "title": "Vacant",
-          "duration": "03:49"
+          "duration": "02:58"
         },
         {
-          "id": 63,
           "number": 6,
           "title": "Stream of Consciousness",
-          "duration": "06:20"
+          "duration": "11:16"
         },
         {
-          "id": 64,
           "number": 7,
-          "title": "Innocence Faded",
-          "duration": "04:35"
-        },
-        {
-          "id": 65,
-          "number": 8,
-          "title": "Leviathan",
-          "duration": "04:10"
-        },
-        {
-          "id": 66,
-          "number": 9,
-          "title": "The Dark Eternal Night",
-          "duration": "05:15"
-        },
-        {
-          "id": 67,
-          "number": 10,
           "title": "In the Name of God",
-          "duration": "06:56"
+          "duration": "14:16"
         }
       ]
     },
     {
       "id": 9,
       "title": "Octavarium",
-      "description": "Released in 2005, this album explores a wide range of musical styles and themes.",
+      "description": "Octavarium is the eighth studio album by Dream Theater, released on June 7, 2005. Recorded between September 2004 and February 2005, the album holds the distinction of being the last album ever recorded at The Hit Factory in New York City. With Octavarium, the band decided to create \"a classic Dream Theater album\", drawing upon their various stylistic influences while trying to make the music less complex. The album takes its creative concept from the musical octave.",
       "releaseYear": 2005,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/octavarium.jpg",
       "tracks": [
         {
-          "id": 68,
           "number": 1,
           "title": "The Root of All Evil",
-          "duration": "05:47"
+          "duration": "08:25"
         },
         {
-          "id": 69,
           "number": 2,
           "title": "The Answer Lies Within",
-          "duration": "03:58"
-        },
-        {
-          "id": 70,
-          "number": 3,
-          "title": "These Walls",
-          "duration": "05:18"
-        },
-        {
-          "id": 71,
-          "number": 4,
-          "title": "I Walk Beside You",
-          "duration": "03:53"
-        },
-        {
-          "id": 72,
-          "number": 5,
-          "title": "Panic Attack",
-          "duration": "04:18"
-        },
-        {
-          "id": 73,
-          "number": 6,
-          "title": "Never Enough",
-          "duration": "03:54"
-        },
-        {
-          "id": 74,
-          "number": 7,
-          "title": "Sacrificed Sons",
           "duration": "05:33"
         },
         {
-          "id": 75,
+          "number": 3,
+          "title": "These Walls",
+          "duration": "07:36"
+        },
+        {
+          "number": 4,
+          "title": "I Walk Beside You",
+          "duration": "04:29"
+        },
+        {
+          "number": 5,
+          "title": "Panic Attack",
+          "duration": "08:13"
+        },
+        {
+          "number": 6,
+          "title": "Never Enough",
+          "duration": "06:46"
+        },
+        {
+          "number": 7,
+          "title": "Sacrificed Sons",
+          "duration": "10:42"
+        },
+        {
           "number": 8,
           "title": "Octavarium",
-          "duration": "08:48"
+          "duration": "24:00"
         }
       ]
     },
     {
       "id": 10,
       "title": "Systematic Chaos",
-      "description": "Released in 2007, this album continues the band's exploration of complex and heavy music.",
-      "releaseYear": 2007,
+      "description": "Systematic Chaos is the ninth studio album by Dream Theater. Systematic Chaos was the band's first release through Roadrunner Records, which was sold to their previous label Atlantic Records, through which the band had released their previous studio album Octavarium (2005). The album was recorded from September 2006 to February 2007 at Avatar Studios in New York City, after the band's first break from summer touring in ten years.",
+      "releaseyear": 2007,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/systematicchaos-800px.jpg",
       "tracks": [
         {
-          "id": 76,
           "number": 1,
           "title": "In the Presence of Enemies - Part I",
-          "duration": "06:46"
+          "duration": "9:00"
         },
         {
-          "id": 77,
           "number": 2,
           "title": "Forsaken",
-          "duration": "03:56"
+          "duration": "5:35"
         },
         {
-          "id": 78,
           "number": 3,
           "title": "Constant Motion",
-          "duration": "04:03"
+          "duration": "6:55"
         },
         {
-          "id": 79,
           "number": 4,
           "title": "The Dark Eternal Night",
-          "duration": "05:15"
+          "duration": "8:51"
         },
         {
-          "id": 80,
           "number": 5,
-          "title": "The Ministry of Lost Souls",
-          "duration": "06:02"
+          "title": "Repentance",
+          "duration": "10:43"
         },
         {
-          "id": 81,
           "number": 6,
-          "title": "The Glass Prison",
-          "duration": "05:49"
+          "title": "Prophets of War",
+          "duration": "6:01"
         },
         {
-          "id": 82,
           "number": 7,
-          "title": "The Last Farewell",
-          "duration": "05:58"
+          "title": "The Ministry of Lost Souls",
+          "duration": "14:57"
         },
         {
-          "id": 83,
           "number": 8,
           "title": "In the Presence of Enemies - Part II",
-          "duration": "08:08"
+          "duration": "16:38"
         }
       ]
     },
     {
       "id": 11,
       "title": "Black Clouds & Silver Linings",
-      "description": "Released in 2009, this album features a mix of aggressive and melodic tracks.",
+      "description": "Black Clouds & Silver Linings is the tenth studio album by Dream Theater, released on June 23, 2009 through Roadrunner Records. It is the last album to feature drummer and founding member Mike Portnoy before his departure on September 8, 2010.",
       "releaseYear": 2009,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/blackclouds.jpg",
       "tracks": [
         {
-          "id": 84,
           "number": 1,
           "title": "A Nightmare to Remember",
-          "duration": "06:56"
+          "duration": "16:10"
         },
         {
-          "id": 85,
           "number": 2,
           "title": "A Rite of Passage",
-          "duration": "05:05"
+          "duration": "8:36"
         },
         {
-          "id": 86,
           "number": 3,
           "title": "Wither",
-          "duration": "03:33"
+          "duration": "5:25"
         },
         {
-          "id": 87,
           "number": 4,
           "title": "The Shattered Fortress",
-          "duration": "06:46"
+          "duration": "12:49"
         },
         {
-          "id": 88,
           "number": 5,
           "title": "The Best of Times",
-          "duration": "04:57"
+          "duration": "13:07"
         },
         {
-          "id": 89,
           "number": 6,
           "title": "The Count of Tuscany",
-          "duration": "08:58"
+          "duration": "19:16"
+        },
+        {
+          "number": 7,
+          "title": "Stargazer",
+          "duration": "8:10"
+        },
+        {
+          "number": 8,
+          "title": "Tenement Funster/Flick of the Wrist/Lily of the Valley",
+          "duration": "8:17"
+        },
+        {
+          "number": 9,
+          "title": "Odyssey",
+          "duration": "7:59"
+        },
+        {
+          "number": 10,
+          "title": "Take Your Fingers from My Hair",
+          "duration": "8:18"
+        },
+        {
+          "number": 11,
+          "title": "Larks' Tongues in Aspic, Part Two",
+          "duration": "6:30"
+        },
+        {
+          "number": 12,
+          "title": "To Tame a Land",
+          "duration": "7:26"
         }
       ]
     },
     {
       "id": 12,
       "title": "A Dramatic Turn of Events",
-      "description": "Released in 2011, this album features the band's first studio work with Mike Mangini as their drummer.",
+      "description": "For A Dramatic Turn of Events, Dream Theater underwent a self-proclaimed musical change, reevaluating and restructuring themselves. The album has drawn stylistic comparisons to two of the band's past albums, Images and Words and Metropolis Pt. 2: Scenes from a Memory.",
       "releaseYear": 2011,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/dramaticturnofevents-800px-squashed.jpg",
       "tracks": [
         {
-          "id": 90,
           "number": 1,
-          "title": "The Root of All Evil",
-          "duration": "06:37"
-        },
-        {
-          "id": 91,
-          "number": 2,
-          "title": "The Shattered Fortress",
-          "duration": "05:51"
-        },
-        {
-          "id": 92,
-          "number": 3,
           "title": "On the Backs of Angels",
-          "duration": "05:43"
+          "duration": "8:42"
         },
         {
-          "id": 93,
-          "number": 4,
+          "number": 2,
+          "title": "Build Me Up, Break Me Down",
+          "duration": "6:59"
+        },
+        {
+          "number": 3,
           "title": "Lost Not Forgotten",
-          "duration": "05:43"
+          "duration": "10:11"
         },
         {
-          "id": 94,
-          "number": 5,
+          "number": 4,
           "title": "This Is the Life",
-          "duration": "04:21"
+          "duration": "6:57"
         },
         {
-          "id": 95,
-          "number": 6,
+          "number": 5,
           "title": "Bridges in the Sky",
-          "duration": "05:41"
+          "duration": "11:01"
         },
         {
-          "id": 96,
-          "number": 7,
+          "number": 6,
           "title": "Outcry",
-          "duration": "05:24"
+          "duration": "11:24"
         },
         {
-          "id": 97,
-          "number": 8,
+          "number": 7,
           "title": "Far from Heaven",
-          "duration": "04:12"
+          "duration": "3:56"
         },
         {
-          "id": 98,
-          "number": 9,
+          "number": 8,
           "title": "Breaking All Illusions",
-          "duration": "06:27"
+          "duration": "12:25"
         },
         {
-          "id": 99,
-          "number": 10,
+          "number": 9,
           "title": "Beneath the Surface",
-          "duration": "03:58"
+          "duration": "5:26"
         }
       ]
     },
     {
       "id": 13,
       "title": "Dream Theater",
-      "description": "Released in 2013, this self-titled album is known for its blend of the band's classic and contemporary styles.",
+      "description": "The band made Dream Theater a self-titled album to emphasize that they were moving forward in their career and to make it a reference point for fans. The album's songs are shorter on average than most Dream Theater songs, with the exception of the 20-minute closer \"Illumination Theory\".",
       "releaseYear": 2013,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/DT12-cover.jpg",
       "tracks": [
         {
-          "id": 100,
           "number": 1,
           "title": "False Awakening Suite",
-          "duration": "03:48"
+          "duration": "02:42"
         },
         {
-          "id": 101,
           "number": 2,
           "title": "The Enemy Inside",
-          "duration": "04:07"
+          "duration": "06:17"
         },
         {
-          "id": 102,
           "number": 3,
           "title": "The Looking Glass",
-          "duration": "04:51"
+          "duration": "04:53"
         },
         {
-          "id": 103,
           "number": 4,
           "title": "Enigma Machine",
-          "duration": "05:03"
+          "duration": "06:01"
         },
         {
-          "id": 104,
           "number": 5,
           "title": "The Bigger Picture",
-          "duration": "06:47"
+          "duration": "07:41"
         },
         {
-          "id": 105,
           "number": 6,
           "title": "Behind the Veil",
-          "duration": "04:24"
+          "duration": "06:52"
         },
         {
-          "id": 106,
           "number": 7,
           "title": "Surrender to Reason",
-          "duration": "03:49"
+          "duration": "06:34"
         },
         {
-          "id": 107,
           "number": 8,
           "title": "Along for the Ride",
-          "duration": "04:05"
+          "duration": "04:45"
         },
         {
-          "id": 108,
           "number": 9,
           "title": "Illumination Theory",
-          "duration": "06:16"
-        },
-        {
-          "id": 109,
-          "number": 10,
-          "title": "The Path of Least Resistance",
-          "duration": "03:42"
+          "duration": "22:17"
         }
       ]
     },
     {
       "id": 14,
       "title": "The Astonishing",
-      "description": "A double concept album released in 2016, featuring a grand narrative and ambitious storytelling.",
+      "description": "The Astonishing is the thirteenth studio album by Dream Theater, released on January 29, 2016. The Astonishing is set in a dystopian future United States and follows the Ravenskill Rebel Militia in their efforts to defy the Great Northern Empire of the Americas using the magical power of music. It was inspired by contemporary fantasy and science fiction franchises such as Game of Thrones and Star Wars, as well as John Petrucci's observations on the ubiquity of technological automation in modern-day society.",
       "releaseYear": 2016,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/astonishing.jpg",
       "tracks": [
         {
-          "id": 110,
           "number": 1,
           "title": "Descent of the Nomacs",
-          "duration": "02:14"
+          "duration": "02:17"
         },
         {
-          "id": 111,
           "number": 2,
           "title": "Dystopian Overture",
-          "duration": "03:24"
+          "duration": "04:50"
         },
         {
-          "id": 112,
           "number": 3,
           "title": "The Gift of Music",
-          "duration": "03:36"
+          "duration": "04:00"
         },
         {
-          "id": 113,
           "number": 4,
-          "title": "A Better Life",
-          "duration": "03:18"
+          "title": "The Answer",
+          "duration": "01:52"
         },
         {
-          "id": 114,
           "number": 5,
-          "title": "Lord Nafaryus",
-          "duration": "05:29"
+          "title": "A Better Life",
+          "duration": "04:39"
         },
         {
-          "id": 115,
           "number": 6,
-          "title": "Hymn of a Thousand Voices",
-          "duration": "05:10"
+          "title": "Lord Nafaryus",
+          "duration": "03:28"
         },
         {
-          "id": 116,
           "number": 7,
-          "title": "Our New World",
-          "duration": "05:07"
+          "title": "A Savior in the Square",
+          "duration": "04:13"
         },
         {
-          "id": 117,
           "number": 8,
+          "title": "When Your Time Has Come",
+          "duration": "04:19"
+        },
+        {
+          "number": 9,
+          "title": "Act of Faythe",
+          "duration": "05:00"
+        },
+        {
+          "number": 10,
+          "title": "Three Days",
+          "duration": "03:44"
+        },
+        {
+          "number": 11,
+          "title": "The Hovering Sojourn",
+          "duration": "00:27"
+        },
+        {
+          "number": 12,
+          "title": "Brother, Can You Hear Me?",
+          "duration": "05:11"
+        },
+        {
+          "number": 13,
+          "title": "A Life Left Behind",
+          "duration": "05:49"
+        },
+        {
+          "number": 14,
+          "title": "Ravenskill",
+          "duration": "06:01"
+        },
+        {
+          "number": 15,
+          "title": "Chosen",
+          "duration": "04:32"
+        },
+        {
+          "number": 16,
+          "title": "A Tempting Offer",
+          "duration": "04:19"
+        },
+        {
+          "number": 17,
+          "title": "Digital Discord",
+          "duration": "00:47"
+        },
+        {
+          "number": 18,
+          "title": "The X Aspect",
+          "duration": "04:13"
+        },
+        {
+          "number": 19,
+          "title": "A New Beginning",
+          "duration": "07:41"
+        },
+        {
+          "number": 20,
+          "title": "The Road to Revolution",
+          "duration": "03:35"
+        },
+        {
+          "number": 21,
+          "title": "2285 Entr'acte",
+          "duration": "02:20"
+        },
+        {
+          "number": 22,
+          "title": "Moment of Betrayal",
+          "duration": "06:11"
+        },
+        {
+          "number": 23,
+          "title": "Heaven's Cove",
+          "duration": "04:19"
+        },
+        {
+          "number": 24,
           "title": "Begin Again",
           "duration": "03:54"
         },
         {
-          "id": 118,
-          "number": 9,
-          "title": "A Life Left Behind",
-          "duration": "04:25"
+          "number": 25,
+          "title": "The Path That Divides",
+          "duration": "05:09"
         },
         {
-          "id": 119,
-          "number": 10,
-          "title": "Rite of Passage",
+          "number": 26,
+          "title": "Machine Chatter",
+          "duration": "01:03"
+        },
+        {
+          "number": 27,
+          "title": "The Walking Shadow",
+          "duration": "02:58"
+        },
+        {
+          "number": 28,
+          "title": "My Last Farewell",
+          "duration": "03:44"
+        },
+        {
+          "number": 29,
+          "title": "Losing Faythe",
           "duration": "04:13"
         },
         {
-          "id": 120,
-          "number": 11,
-          "title": "The Hovering Sojourn",
-          "duration": "05:09"
+          "number": 30,
+          "title": "Whispers on the Wind",
+          "duration": "01:37"
         },
         {
-          "id": 121,
-          "number": 12,
-          "title": "Brother, Can You Hear Me?",
-          "duration": "02:53"
+          "number": 31,
+          "title": "Hymn of a Thousand Voices",
+          "duration": "03:38"
         },
         {
-          "id": 122,
-          "number": 13,
-          "title": "Heaven's Cove",
-          "duration": "03:16"
-        },
-        {
-          "id": 123,
-          "number": 14,
-          "title": "In the Name of the Father",
-          "duration": "04:36"
-        },
-        {
-          "id": 124,
-          "number": 15,
-          "title": "Astonishing",
-          "duration": "06:14"
-        },
-        {
-          "id": 125,
-          "number": 16,
-          "title": "The Path That Divides",
-          "duration": "04:38"
-        },
-        {
-          "id": 126,
-          "number": 17,
-          "title": "The Road to Revolution",
-          "duration": "04:44"
-        },
-        {
-          "id": 127,
-          "number": 18,
-          "title": "Prime Time",
-          "duration": "03:24"
-        },
-        {
-          "id": 128,
-          "number": 19,
-          "title": "Fantasmagoria",
+          "number": 32,
+          "title": "Our New World",
           "duration": "04:12"
         },
         {
-          "id": 129,
-          "number": 20,
-          "title": "The Hovering Sojourn",
-          "duration": "05:09"
+          "number": 33,
+          "title": "Power Down",
+          "duration": "01:25"
+        },
+        {
+          "number": 34,
+          "title": "Astonishing",
+          "duration": "05:51"
         }
       ]
     },
     {
       "id": 15,
       "title": "Distance Over Time",
-      "description": "Released in 2019, this album features a mix of progressive and melodic metal.",
+      "description": "Distance Over Time showcases a newfound creativity for Dream Theater while maintaining the elements that have garnered them devoted fans around the globe. The album also marks the first for the band’s new label InsideOutMusic / Sony Music. The artwork was created by long-time cover collaborator Hugh Syme (Rush, Iron Maiden, Stone Sour). Distance Over Time was produced by John Petrucci, mixed by Ben Grosse and mastered by Tom Baker.",
       "releaseYear": 2019,
       "coverUrl": "https://dreamtheater.net/wp-content/uploads/2018/11/Distance.Over_.Time_.COVER_.3000x3000.jpg",
       "tracks": [
         {
-          "id": 130,
           "number": 1,
           "title": "Untethered Angel",
-          "duration": "04:00"
+          "duration": "06:14"
         },
         {
-          "id": 131,
           "number": 2,
           "title": "Paralyzed",
-          "duration": "04:15"
+          "duration": "04:17"
         },
         {
-          "id": 132,
           "number": 3,
-          "title": "Prey",
-          "duration": "04:00"
-        },
-        {
-          "id": 133,
-          "number": 4,
           "title": "Fall into the Light",
-          "duration": "05:25"
+          "duration": "07:04"
         },
         {
-          "id": 134,
-          "number": 5,
+          "number": 4,
           "title": "Barstool Warrior",
-          "duration": "04:02"
+          "duration": "06:43"
         },
         {
-          "id": 135,
+          "number": 5,
+          "title": "Room 137",
+          "duration": "04:23"
+        },
+        {
           "number": 6,
-          "title": "Roots of the Tree",
-          "duration": "04:05"
-        },
-        {
-          "id": 136,
-          "number": 7,
           "title": "S2N",
-          "duration": "03:22"
+          "duration": "06:21"
         },
         {
-          "id": 137,
+          "number": 7,
+          "title": "At Wit's End",
+          "duration": "09:20"
+        },
+        {
           "number": 8,
           "title": "Out of Reach",
-          "duration": "03:32"
+          "duration": "04:04"
         },
         {
-          "id": 138,
           "number": 9,
           "title": "Pale Blue Dot",
-          "duration": "05:15"
+          "duration": "08:25"
         },
         {
-          "id": 139,
           "number": 10,
           "title": "Viper King",
-          "duration": "03:53"
+          "duration": "04:00"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "A View from the Top of the World",
+      "description": "Dream Theater – comprised of James LaBrie, John Petrucci, Jordan Rudess, John Myung and Mike Mangini - was in the middle of a sold-out world tour in support of their last release Distance Over Time and the 20th anniversary of Scenes From A Memory when a Global Pandemic brought the world to a stop. The musicians found themselves at home with LaBrie in Canada and the rest of the group in the States. As fate would have it, they’d just finished construction on DTHQ (Dream Theater Headquarters) —a combination live recording studio, rehearsal space, control room, equipment storage, and creative hive. With LaBrie in Canada, he initially wrote with the band via ZOOM on a monitor in DTHQ. In March 2021, he flew down to New York, quarantined, and recorded his vocals face-to-face with Petrucci. The album ultimately threaded together lean and uncompromising hooks with tried-and-true technical proficiency.",
+      "releaseYear": 2021,
+      "coverUrl": "https://dreamtheater.net/wp-content/uploads/2021/07/DT-TopWorld-Cover-HR-1-scaled.jpeg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "The Alien",
+          "duration": "09:32"
         },
         {
-          "id": 140,
-          "number": 11,
-          "title": "Hate Machine",
-          "duration": "05:23"
+          "number": 2,
+          "title": "Answering the Call",
+          "duration": "07:35"
         },
         {
-          "id": 141,
-          "number": 12,
-          "title": "At Wit's End",
-          "duration": "06:38"
+          "number": 3,
+          "title": "Invisible Monster",
+          "duration": "06:31"
+        },
+        {
+          "number": 4,
+          "title": "Sleeping Giant",
+          "duration": "10:05"
+        },
+        {
+          "number": 5,
+          "title": "Transcending Time",
+          "duration": "06:25"
+        },
+        {
+          "number": 6,
+          "title": "Awaken the Master",
+          "duration": "09:47"
+        },
+        {
+          "number": 7,
+          "title": "A View from the Top of the World",
+          "duration": "20:24"
         }
       ]
     }
