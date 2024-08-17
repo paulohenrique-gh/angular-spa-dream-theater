@@ -1,16 +1,27 @@
 <ul class="flex flex-wrap justify-center w-4/6 mx-auto gap-8">
   <li *ngFor="let member of bandMembers" class="overflow-hidden rounded">
-    <a [routerLink]="[member.id]">
-    <img
-      [src]="member.imageUrl"
-      alt="member.name"
-      width="300"
-      class="hover:cursor-pointer hover:scale-105 transition-all duration-500"
-    />
-
+    <a class="relative" [routerLink]="[member.id]">
+      <img
+        [src]="member.imageUrl"
+        alt="member.name"
+        width="300"
+        class="hover:cursor-pointer hover:scale-105 transition-all duration-500 object-cover"
+      />
+      <div class="absolute inset-0 flex items-end justify-between">
+        <div
+          class="w-full flex bg-black bg-opacity-80 backdrop-blur-sm p-3
+                 shadow-inner justify-between items-end"
+        >
+          <p
+            class="uppercase font-semibold text-lg tracking-widest"
+          >
+            {{ member.name }}
+          </p>
+          <span class="uppercase text-gray-400 tracking-wider">
+            {{ member.instrument }}
+          </span>
+        </div>
+      </div>
     </a>
-    <p class="text-center">
-      {{ member.name }} <span>{{ member.instrument }}</span>
-    </p>
   </li>
 </ul>
