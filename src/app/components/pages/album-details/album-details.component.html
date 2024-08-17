@@ -1,6 +1,14 @@
-<div *ngIf="album">
-  <h1>{{ album.title }} ({{ album.releaseYear }})</h1>
-  <img [src]="album.coverUrl" [alt]="album.title" width="500" />
+<div *ngIf="album" class="container mx-auto">
+  <div class="flex items-center gap-6">
+    <img [src]="album.coverUrl" [alt]="album.title" width="400" />
+    <div class="flex flex-col justify-center gap-6">
+      <div class="flex flex-col">
+        <h1 class="text-6xl uppercase tracking-wider font-semibold">{{ album.title }}</h1>
+        <p class="text-start text-3xl text-gray-600">{{ album.releaseYear }}</p>
+      </div>
+      <p class="text-2xl tracking-wide font-thin">{{ album.description }}</p>
+    </div>
+  </div>
 
   <ul>
     <li *ngFor="let track of album.tracks" class="flex justify-start gap-3">
