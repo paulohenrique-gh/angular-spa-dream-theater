@@ -1,1 +1,7 @@
-<p>band-member-details works!</p>
+<div *ngIf="bandMember">
+  <img [src]="bandMember.imageUrl" [alt]="bandMember.name" />
+
+  <h1>{{ bandMember.name }}</h1>
+  <p>{{ bandMember.instrument }}</p>
+  <p class="whitespace-pre text-wrap">{{ bandMember.bio }}</p>
+</div>

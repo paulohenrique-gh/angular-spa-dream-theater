@@ -4,35 +4,35 @@
       "id": 1,
       "name": "James LaBrie",
       "instrument": "Vocals",
-      "bio": "James LaBrie is the lead vocalist of Dream Theater, known for his powerful and versatile voice.",
+      "bio": "In 1990, LaBrie learned that Dream Theater was looking for a new singer, so he submitted a tape and was quickly flown to New York for a full audition. The trial went well, and he was chosen ahead of 200 other hopefuls to fill the full-time vocalist position in the band.\n\nLaBrie has since had a significant impact on the vocal melodies on each Dream Theater album, but until recently has had little input on the instrumentation of Dream Theater's music - 2011's A Dramatic Turn of Events features LaBrie in the music credits on three songs. To date he has written or co-written lyrics for at least one song on eight of the twelve albums Dream Theater has released with him in the band, Images and Words, Black Clouds & Silver Linings, Dream Theater and The Astonishing containing none of them.\n\nAsked by Prog-Sphere.com what is his favourite Dream Theater song to play live, James said \"The favourite song for me is Scarred, I love performing that live. And... well, Octavarium, that whole freakin’ thing.\"",
       "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jlb.jpg"
     },
     {
       "id": 2,
       "name": "John Petrucci",
       "instrument": "Guitar",
-      "bio": "John Petrucci is the guitarist and a founding member of Dream Theater, celebrated for his technical proficiency and complex compositions.",
+      "bio": "John Petrucci is best known as the guitarist, producer, lyricist and founding member of the two-time Grammy nominated progressive metal band Dream Theater as well as the guitarist and founding member of the acclaimed Liquid Tension Experiment.\n\nAs a solo artist, John is a longstanding veteran of Joe Satriani’s G3 tours, along with Steve Vai, Eric Johnson, Paul Gilbert, Steve Morse and Steve Lukather.\n\nBorn John Peter Petrucci on July 12, 1967, he grew up in Kings Park, New York, a small suburban town on Long Island where he began playing guitar at age 12. His early influences included Steve Morse, Al DiMeola, Steve Howe, Allan Holdsworth, Stevie Ray Vaughan, Randy Rhoads, Joe Satriani, Steve Vai, Alex Lifeson, Yngwie Malmsteen, Rush, Yes, Iron Maiden, The Dregs and Metallica.\n\nAfter graduating from high school, he attended the prestigious Berklee College of Music in Boston along with schoolmate/bassist John Myung where they fatefully met drummer Mike Portnoy and quickly formed the nucleus of what was to become Dream Theater.",
       "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jp.jpg"
     },
     {
       "id": 3,
       "name": "Jordan Rudess",
-      "instrument": "Keyboards",
-      "bio": "Jordan Rudess is the keyboardist of Dream Theater, known for his virtuosic playing and innovative use of technology.",
+      "instrument": "Keyboard",
+      "bio": "Jordan Rudess has been the full-time keyboardist in Dream Theater since the recording of 1999's Metropolis Pt. 2: Scenes from a Memory.\n\nHe has recorded eight other studio albums with the group: 2002's Six Degrees of Inner Turbulence, 2003's Train of Thought, 2005's Octavarium, 2007's Systematic Chaos, 2009's Black Clouds & Silver Linings, 2011's A Dramatic Turn of Events, 2013's Dream Theater, and 2016's The Astonishing.\n\nIn addition, he has appeared on the live albums Live Scenes From New York, Live at Budokan, Score, Chaos in Motion, Live at Luna Park and Breaking the Fourth Wall.\n\nRudess says his influences as a keyboardist are Keith Emerson, Tony Banks, Rick Wakeman and Patrick Moraz. His favorite musical artists and groups include Gentle Giant, Yes, Genesis, Pink Floyd, Emerson, Lake & Palmer, King Crimson, Jimi Hendrix, Autechre, and Aphex Twin.\n\nOn July 28, 2011, in a poll conducted by MusicRadar, Rudess was voted the best keyboardist of all time.",
       "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jr.jpg"
     },
     {
       "id": 4,
       "name": "John Myung",
       "instrument": "Bass",
-      "bio": "John Myung is the bassist of Dream Theater, recognized for his intricate bass lines and technical skill.",
+      "bio": "Born in Chicago, Illinois, to Korean parents, Myung grew up in Kings Park, Long Island, New York.\n\nHe played the violin from the age of five until he was asked to play electric bass in a local band when he was fifteen, which he accepted.\n\nAfter graduating from high school he and his high school friend John Petrucci enrolled at the Berklee College of Music, where they met future bandmate Mike Portnoy.\n\nThough Dream Theater is his primary focus musically, he has appeared in a number of other projects through his career. His first was the progressive rock supergroup Platypus, with Rod Morgenstein, Ty Tabor and ex-Dream Theater bandmate Derek Sherinian. After Platypus disbanded in 2000, Myung, Tabor, and Morgenstein recorded four albums as the Jelly Jam.\n\nMyung's favorite bands include the Beatles, Black Sabbath, the Who, Iron Maiden, Rush, Yes, Jethro Tull and Genesis. He cites bassists Geezer Butler, John Entwistle, Chris Squire, Steve Harris, Geddy Lee and Jaco Pastorius as the main influences on his playing style.",
       "imageUrl": "https://dreamtheater.net/wp-content/uploads/2018/12/dt-2019-jm.jpg"
     },
     {
       "id": 5,
       "name": "Mike Portnoy",
       "instrument": "Drums",
-      "bio": "Mike Portnoy was the drummer for Dream Theater and one of the founding members, known for his complex rhythms and energetic performances.",
+      "bio": "Mike Portnoy was born on April 20, 1967, in Long Beach, New York.\n\nHis father, Howard Portnoy (1940–2009), worked as a DJ at a local radio station, which helped Mike gain an early appreciation for music. He developed a preference for bands like Rush, Queen, Led Zeppelin, The Who, Iron Maiden, and The Beatles.\n\nAfter high school, where he played in a band called Inner Sanctum, he received a scholarship to attend the Berklee College of Music in Boston. There, he met John Petrucci and John Myung, and together they formed a band initially named 'Majesty' before becoming Dream Theater.\n\nPortnoy was a founding member and served as the drummer for Dream Theater for 25 years, known for his complex rhythms and energetic performances. He left the band in 2010 but reunited with them in October 2023, replacing drummer Mike Mangini.",
       "imageUrl": "https://dreamtheater.net/wp-content/uploads/2017/07/portnoy.jpg"
     }
   ],
@@ -959,7 +959,7 @@
         {
           "id": 132,
           "number": 3,
-          "title": "Prey", 
+          "title": "Prey",
           "duration": "04:00"
         },
         {

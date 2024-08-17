@@ -16,6 +16,7 @@ export class BandMemberService {
   }
 
   getBandMemberDetails(id: number): Observable<BandMember> {
+    console.log(id)
     return this.httpClient.get<BandMember>(`${this.url}/${id}`);
   }
 }
