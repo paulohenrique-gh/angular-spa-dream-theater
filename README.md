@@ -7,5 +7,6 @@ graph TD
     C[router] --> F[discography]
     C[router] --> G[band]
     F[discography] --> H[album-details]
-    G[band] --> I[band-member-details]
+    H[album-details] --> I[tracklist]
+    G[band] --> J[band-member-details]
 ```
