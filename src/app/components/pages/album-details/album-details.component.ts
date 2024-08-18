@@ -3,11 +3,12 @@ import { Album } from '../../../models/album';
 import { ActivatedRoute } from '@angular/router';
 import { AlbumService } from '../../../services/album.service';
 import { CommonModule } from '@angular/common';
+import { TracklistComponent } from '../../tracklist/tracklist.component';
 
 @Component({
   selector: 'app-album-details',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, TracklistComponent],
   templateUrl: './album-details.component.html',
   styleUrl: './album-details.component.css',
 })

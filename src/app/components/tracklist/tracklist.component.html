@@ -1,0 +1,14 @@
+  <ul>
+    <li
+      *ngFor="let track of tracks"
+      class="flex justify-start gap-8 py-2 px-4 rounded hover:bg-zinc-700"
+    >
+      <div class="flex gap-3">
+        <span class="w-4 font-thin text-gray-400">{{ track.number }}.</span>
+        <span class="tracking-wide">{{ track.title }}</span>
+      </div>
+      <span class="ml-auto font-thin tracking-wide text-gray-400">{{
+        track.duration
+      }}</span>
+    </li>
+  </ul>
