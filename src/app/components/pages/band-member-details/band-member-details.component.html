@@ -1,7 +1,11 @@
-<div *ngIf="bandMember">
-  <img [src]="bandMember.imageUrl" [alt]="bandMember.name" />
+<div *ngIf="bandMember" class="container mx-auto w-auto flex items-center gap-8">
+  <img [src]="bandMember.imageUrl" [alt]="bandMember.name" width="600" />
 
-  <h1>{{ bandMember.name }}</h1>
-  <p>{{ bandMember.instrument }}</p>
-  <p class="whitespace-pre text-wrap">{{ bandMember.bio }}</p>
+  <div class="flex flex-col gap-9">
+    <div class="flex flex-col">
+      <h1 class="text-4xl font-semibold uppercase tracking-wider">{{ bandMember.name }}</h1>
+      <p class="text-3xl text-gray-400 uppercase">{{ bandMember.instrument }}</p>
+    </div>
+    <p class="whitespace-pre text-wrap text-2xl font-thin tracking-wide">{{ bandMember.bio }}</p>
+  </div>
 </div>
