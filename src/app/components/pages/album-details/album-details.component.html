@@ -12,8 +12,8 @@
   <div class="flex h-96 w-full items-center justify-between gap-8">
     <img [src]="album.coverUrl" [alt]="album.title" class="h-96" />
     <ul class="flex h-fit max-h-full w-fit flex-grow flex-col gap-1 overflow-y-auto
-               rounded border-2 border-gray-600 border-opacity-30 bg-zinc-950 p-6">
-      <li *ngFor="let track of album.tracks" class="flex justify-start gap-8">
+               rounded border-2 border-gray-600 border-opacity-30 bg-zinc-950 p-2">
+      <li *ngFor="let track of album.tracks" class="flex justify-start gap-8 py-2 px-4 rounded hover:bg-zinc-700">
         <div class="flex gap-3">
           <span class="w-4 font-thin text-gray-400">{{ track.number }}.</span>
           <span class="tracking-wide">{{ track.title }}</span>
