@@ -78,3 +78,28 @@
     class="rounded"
   />
 </div>
+
+<aside
+  *ngIf="!isSubscribed"
+  class="fixed z-50 flex gap-2 flex-col items-center justify-center p-8 text-zinc-950 bg-gray-300 rounded-lg bottom-20 right-10"
+>
+  <form (ngSubmit)="onSubmit()" class="flex flex-col gap-3 items-center">
+    <input
+      type="text"
+      id="name"
+      name="name"
+      placeholder="Your name"
+      class="rounded px-3 py-2 w-full"
+    />
+    <input
+      type="email"
+      name="email"
+      id="email"
+      placeholder="Your e-mail"
+      class="rounded px-3 py-2 w-full"
+    />
+    <button type="submit" class="bg-blue-600 text-gray-300 rounded py-2 px-3">
+      Subscribe to our Newsletter!
+    </button>
+  </form>
+</aside>
