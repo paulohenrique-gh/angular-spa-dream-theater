@@ -5,7 +5,7 @@ Foi proposta a criação de uma página relacionada a música, e escolhi a banda
 
 ![image](https://github.com/user-attachments/assets/cd21d6fb-e43e-4fec-813e-94c6b77ab298)
 Home
--
+---
 <br>
 
 ![image](https://github.com/user-attachments/assets/e1161c60-71fd-4859-9157-de1daf995487)
@@ -72,4 +72,5 @@ graph TD
     F[discography] --> H[album-details]
     H[album-details] --> I[tracklist]
     G[band] --> J[band-member-details]
+    E[home] --> K[subscription-form] 
 ```
